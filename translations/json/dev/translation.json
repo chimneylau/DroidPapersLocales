@@ -1,0 +1,502 @@
+{
+	"leftpanel" : {
+		"home" : "Home",
+		"myfavorites" : "My favorites",
+		"myprofiles" : "My profiles",
+		"allwallpapers" : "All wallpapers",
+		"allringtones" : "All ringtones"
+	},
+	"rightpanel" : {
+		"about" : "About",
+		"support" : "Support",
+		"contentupdates" : "Check content updates",
+		"settings" : "Settings",
+		"wallpapersettings" : "Wallpaper settings",
+		"sharethisapp" : "Share this app!",
+		"droidpapersdonate" : "DroidPapers Donate"
+	},
+	"profilepanel" : {
+		"selectprofile" : "Select a profile to activate"
+	},
+	"ringtonepanel" : {
+		"ringtypealarm" : "alarm",
+		"ringtypenotification" : "notification",
+		"ringtyperingtone" : "ringtone",
+		"setasdefault" : "Set as default",
+		"downloadonly" : "Download only",
+		"share" : "Share",
+		"deletedownload" : "Delete download",
+		"addtoprofile" : "Add to profile",
+		"openinbrowser" : "Open in browser",
+		"playstopcurrent" : "Play/stop current",
+		"onlinevisits" : "Online visits",
+		"filesize" : "Filesize"
+	},
+	"wallpaper" : {
+		"distribution" : "Distribution",
+		"device" : "Device",
+		"resolution" : "Resolution",
+		"onlinevisits" : "Online visits",
+		"filesize" : "Filesize",
+		"moreinfo" : {
+			"bar" : "More info about setting wallpaper...",
+			"info" : "You can set a wallpaper with two different options. One is with keeping its height, and the other with keeping its width. Below you can see what it means.",
+			"heighttitle" : "Set with keeping height",
+			"heighttext" : "When you keep the wallpaper height of the wallpaper, the entire height of the image is show on the device screen and stretched or shrunk if necessary. This might result in black strips on the left and on the right side, or that parts of the wallpaper on the left or on the right side are cut off. This depends on screen resolution versus image resolution.",
+			"widthtitle" : "Set with keeping width",
+			"widthtext" : "When you keep the wallpaper width of the wallpaper, the entire width of the image is show on the device screen and stretched or shrunk if necessary. This might result in black strips on the top and on the bottom side, or that parts of the wallpaper on the top or on the bottom side are cut off. This depends on screen resolution versus image resolution."
+		},
+		"panel" : {
+			"keepheight" : "Set with keeping height",
+			"keepwidth" : "Set with keeping width",
+			"other" : "Other...",
+			"colororiginal" : "Original",
+			"colorgrayscale" : "Grayscale",
+			"colorsepia" : "Sepia",
+			"addtoprofile" : "Add to profile",
+			"share" : "Share",
+			"openinbrowser" : "Open in browser",
+			"downloadonly" : "Download only",
+			"deletedownload" : "Delete download"
+		},
+		"filterpanel" : {
+			"title" : "Wallpaper filters",
+			"sd" : "Include SD",
+			"hd720p" : "Include HD (720p)",
+			"hd1080p" : "Include HD (1080p)"
+		},
+		"error" : {
+			"norecentwalls" : "No wallpapers in database that are recently added.",
+			"nodensitywalls" : "No wallpapers in database that has that density.",
+			"nodistros" : "No distributions in database.",
+			"nowallfilter" : "No wallpapers that matches the filters found in database for selected distribution.",
+			"nofavorites" : "You do not have any favorite (starred) wallpapers selected."
+		},
+		"toasts" : {
+			"settingwallpaper" : "Setting wallpaper..."
+		},
+		"search" : {
+			"prompt" : "Please enter your search query",
+			"title" : "Search wallpapers...",
+			"search" : "Search",
+			"cancel" : "Cancel",
+			"notfound" : "No wallpapers in database that matches the search query.",
+			"nosearchquery" : "No search query specified. Please specify a search query.",
+			"searchedfor" : "Searched for"
+		}
+	},
+	"topics" : {
+		"hd1080ptitle" : "HD 1080p wallpapers",
+		"hd1080ptext" : "See all HD 1080p (or higher) wallpapers.",
+		"hd720ptitle" : "HD 720p wallpapers",
+		"hd720ptext" : "See all HD 720p wallpapers.",
+		"sdtitle" : "SD wallpapers",
+		"sdtext" : "See all SD (or lower) wallpapers.",
+		"top30sharedwallstitle" : "Top 30 shared wallpapers",
+		"top30sharedwallstext" : "See the top 30 shared wallpapers of the past month.",
+		"top30sharedringstitle" : "Top 30 shared ringtones",
+		"top30sharedringstext" : "See the top 30 shared ringtones of the past month.",
+		"last30sharedwallstitle" : "Last 30 shared wallpapers",
+		"last30sharedwallstext" : "See the last 30 by users shared wallpapers.",
+		"last30sharedringstitle" : "Last 30 shared ringtones",
+		"last30sharedringstext" : "See the last 30 by users shared ringtones.",
+		"recentaddedwallstitle" : "Recent added new wallpapers",
+		"recentaddedwallstext" : "See the wallpapers added in the most recent updates.",
+		"recentaddedringstitle" : "Recent added new ringtones",
+		"recentaddedringstext" : "See the ringtones added in the most recent updates.",
+		"topics" : "Topics",
+		"seemore" : "Please select a topic to see more.",
+		"nowifi" : "No Wifi Internet connection detected. Auto load of online content on app launch is therefore disabled to prevent data-usage on mobile-networks. Press refresh icon in action bar above to load the content."
+	},
+	"pages" : {
+		"titles" : {
+			"indexpage" : "Home",
+			"overviewfavoritespage" : "My favorites",
+			"distributionswallspage" : "Wallpapers",
+			"distributionsringspage" : "Ringtones",
+			"profileoverviewpage" : "My profiles",
+			"searchringtones" : "Ringtone search results",
+			"searchwallpapers" : "Wallpaper search results",
+			"wallpapersettings" : "Wallpaper settings",
+			"settingspage" : "Settings",
+			"syncpage" : "Check content updates",
+			"supportpage" : "Support",
+			"aboutpage" : "About DroidPapers",
+			"profileselectpage" : "Select profile"
+		}
+	},
+	"favorites" : {
+		"favoritewallstitle" : "My favorite wallpapers",
+		"favoritewallstext" : "See all your favorite wallpapers",
+		"favoriteringstitle" : "My favorite ringtones",
+		"favoriteringstext" : "See all your favorite ringtones"
+	},
+	"ringtones" : {
+		"alarms" : "Alarms",
+		"notifications" : "Notifications",
+		"ringtones" : "Ringtones",
+		"alarm" : "Alarm",
+		"notification" : "Notification",
+		"ringtone" : "Ringtone",
+		"error" : {
+			"norecentadded" : "No ringtones in database that are recently added.",
+			"nosync" : "This ringtone is not in the local database. Please (re)sync content.",
+			"nofavorites" : "You do not have any favorite (starred) ringtone selected.",
+			"nodistros" : "No distributions in database.",
+			"noringsdistro" : "No ringtones in database for selected distribution.",
+			"nodistroselected" : "No distribution is selected. Please select a distribution."
+		},
+		"search" : {
+			"prompt" : "Please enter your search query",
+			"title" : "Search ringtones...",
+			"search" : "Search",
+			"cancel" : "Cancel",
+			"notfound" : "No ringtones in database that matches the search query.",
+			"nosearchquery" : "No search query specified. Please specify a search query.",
+			"searchedfor" : "Searched for"
+		}
+	},
+	"profiles" : {
+		"settings" : {
+			"profile" : "Profile",
+			"title" : "Wallpaper settings",
+			"sizeselector" : "Set wallpaper with keeping its...",
+			"sizewidth" : "width",
+			"sizeheight" : "height",
+			"colorselector" : "Set wallpaper with color...",
+			"currentcolor" : "Current color",
+			"deletewall" : "Delete wallpaper from profile",
+			"delete" : "Delete",
+			"info" : "When there is no wallpaper or ringtone set in a profile, it gets ignored with activating profile. In example, when you do not specify a wallpaper in a profile, then by activating your profile only the sounds gets activated.",
+			"setwallpaper" : "Wallpaper set to keeping its",
+			"setcolor" : "Wallpaper set to color"
+		},
+		"buttons" : {
+			"activate" : "Activate profile",
+			"rename" : "Rename profile",
+			"delete" : "Delete profile",
+			"add" : "Add new profile"
+		},
+		"error" : {
+			"profilenotfound" : "Profile not found.",
+			"profilesnotfound" : "No profiles found.",
+			"nowallpaper" : "No wallpaper set in profile.",
+			"noalarm" : "No alarm set in profile.",
+			"nonotification" : "No notification set in profile.",
+			"noringtone" : "No ringtone set in profile.",
+			"nosounds" : "No sounds in profile.",
+			"alreadyexists" : "Profile name already exists.",
+			"noprofile" : "You need to specify a profile name.",
+			"notundone" : "This cannot be undone!"
+		},
+		"dialogs" : {
+			"addprofile" : "Please enter the profile name",
+			"addprofiletitle" : "Add new profile...",
+			"addprofileadd" : "Add",
+			"profileadded" : "Profile added",
+			"profilecancel" : "Cancel",
+			"myprofile" : "My Profile",
+			"renameprofile" : "Please enter a new profile name",
+			"renameprofiletitle" : "Rename profile...",
+			"renameprofilerename" : "Rename",
+			"profilerenamed" : "Profile renamed",
+			"deleteprofile" : "Do you want to delete the profile",
+			"deleteprofiletitle" : "Delete profile",
+			"profiledelete" : "Delete",
+			"profiledeleted" : "Profile deleted",
+			"activateprofile" : "Do you want to activate profile",
+			"activateprofiletitle" : "Activate profile...",
+			"deleteringprofile" : "Do you want to delete ringtone from profile?",
+			"deleteringprofiletitle" : "Delete ringtone...",
+			"ringprofiledeleted" : "Ringtone removed from profile.",
+			"deletewallprofile" : "Do you want to delete the wallpaper from profile?",
+			"deletewallprofiletitle" : "Delete wallpaper...",
+			"wallprofiledeleted" : "Wallpaper removed from profile."
+		}
+	},
+	"general" : {
+		"toasts" : {
+			"nointernet" : "No Internet connection detected.",
+			"nofileorweb" : "File does not exists or cannot connect to webserver, please try again or contact the developer.",
+			"addedtoprofile" : "Added to profile.",
+			"previouswallpaper" : "Previous wallpaper.",
+			"nextwallpaper" : "Next wallpaper.",
+			"setwallpaperdefault" : "Set wallpaper with default settings.",
+			"downloadonly" : "Download wallpaper only.",
+			"waitforupdate" : "Please wait until the update is finished.",
+			"refresh" : "Refresh.",
+			"share" : "Share.",
+			"search" : "Search."
+		},
+		"dialogs" : {
+			"changescreensize" : "DroidPapers will exit in order to let the new setting take effect. Please restart DroidPapers after closure.",
+			"changescreensizetitle" : "Close DroidPapers",
+			"changescreensizebutton" : "Oke",
+			"donate" : "Dear customer,\n\nI ask you to please consider a donation.\n\nIt costs money to run a webserver to host and transport content. DroidPapers is running on a professional webserver to garantuee maximum availability of access to the content included in the app as well as the website.\n\nThe app and website does not have any ads because of principle, but it takes a chunk out of the income. If you like the app and what it has to offer and want to donate to DroidPapers, please do so.\n\nI would be very gratefull and the donate buttons will be gone in the app for you! If not, no hard feelings of any kind. In both cases I hope you will continue to use and enjoy the completely free and full-featured DroidPapers!\n\nThanks for taking your time to read this.\n\nKind regards,\n\nJoram Teusink\nTeusink.org",
+			"donatetitle" : "DroidPapers Donate",
+			"donateoke" : "Yeah, donate!",
+			"donatecancel" : "No, thanks"
+		},
+		"newcontent" : "NEW",
+		"about" : {
+			"counters" : "Counters",
+			"visitswallpapers" : "Total visits wallpapers",
+			"visitsringtones" : "Total visits ringtones",
+			"totalwallpapers" : "Total wallpapers",
+			"totalringtones" : "Total unique ringtones",
+			"retrievinginfo" : "Retrieving data...",
+			"reviews" : "Reviews",
+			"whatdroidpapersis" : "What DroidPapers is",
+			"aboutdroidpapers" : "DroidPapers delivers official stock wallpapers and ringtones from Android, and other official and non-official distributions and vendors.",
+			"howdroidpapersismade" : "How DroidPapers is made",
+			"howdroidpapersisbuild" : "DroidPapers is build in HTML5, CSS3, JavaScript and <a href='http://jquerymobile.com/' target='_blank'>jQuery Mobile</a>. <a href='http://phonegap.com/' target='_blank'>PhoneGap</a> is used to create a native app of the web-code.<br /><br />Read more about this here: <a href='http://droidpapers.teusink.org/about.php' target='_blank'>About DroidPapers</a>.",
+			"webandapps" : "Websites and more apps",
+			"disclaimertitle" : "Disclaimer and Privacy",
+			"moreinfo" : "More information...",
+			"disclaimer" : "Disclaimer",
+			"privacy" : "Privacy",
+			"disclaimertext" : "All content and rights belong to their respected owners. No transfer of ownership is at hand with using this application. Donation funds are used for upkeep of server space and bandwidth.<br /><br />Every wallpaper and ringtone that is included in this app/website is downloaded from the Internet. There is no copyright violation intended with this app. If you feel that your copyright has been violated, please get in touch. Appropriate actions will be taken.",
+			"privacytext" : "This app does not collect any private or personal identifiable information, nor sends any such information to online servers. App statistics are, if switched on, uploaded to generate information for the improvement of the app. App statistics are completely anonymous and only contains general information about how the app is used."
+		},
+		"support" : {
+			"devicemodel" : "Device model",
+			"deviceplatform" : "Device platform",
+			"version" : "version",
+			"currentappversion" : "Current app version",
+			"currentcontentversion" : "Current content version",
+			"currentsetting" : "Current setting",
+			"more" : "More questions and support",
+			"moreinfo" : "Just press one of the buttons below and ask your question. Don't forget to include the system info below.",
+			"stillissues" : "If you still have issues, please do not hesitate to contact support.",
+			"questions" : {
+				"qa1" : "Wallpaper cannot be set as background?",
+				"qa2" : "Favorite wallpapers and/or ringtones broken?",
+				"qa3" : "Not all content seems available?",
+				"qa4" : "Why is there no option to set a ringtone as a contact ringtone?",
+				"qa5" : "What about the AutoChanger and ShakeChanger service?",
+				"qa6" : "Why is AutoChanger changing my wallpaper more then the interval?",
+				"qa7" : "Which wallpapers are used by the AutoChanger and ShakeChanger service?",
+				"qa8" : "In which folder(s) is the content downloaded?",
+				"qa9" : "Got some strange issues with DroidPapers?"
+			},
+			"answers" : {
+				"qa1" : "When a wallpaper is failing to be set as your system wallpaper, the download went probably corrupt. This can happen on occasion, because of network slowdowns or failures. To retry select the option in the menu 'Delete from device' and then re-set the wallpaper again. The cache is deleted so it will trigger a re-download.",
+				"qa2" : "This can happen when filenames are changed. Just un-favorite the broken wallpaper or ringtone or clear the entire application data.",
+				"qa3" : "Content may not be processed into the local database correctly. Try a force download to re-write the content to the database. If that does not help try deleting your cache or reinstalling the app first.",
+				"qa4" : "In order to provide this feature, the permissions 'WRITE_CONTACTS' and 'READ_CONTACTS' are needed. These permissions are needed for such a feature, but it gives the app implicit permission to access, read and write the entire addressbook. For such a simple feature, it is just to much.</p><p>There is a work-around though. When you want to set a ringtone as a contact ringtone, do the following. Open the ringtone in DroidPapers. Select 'Download only'. Open your contact in your addressbook and select the ringtone from there.",
+				"qa5" : "With the AutoChanger service you can let DroidPapers automatically change your wallpaper. A random already downloaded wallpaper will be chosen on a specific time interval. You can choose the interval you desire. An interval of 1 minute roughly takes about 5% of your battery time. The greater the interval, the less usage.</p><p>ShakeChanger does the same job, but instead automatically changing the wallpaper in given intervals, it changes the wallpaper when the device is shaken.",
+				"qa6" : "The Android operating system can stop and restart services when it needs more memory, storage or processing power. When the service restarts the wallpaper gets changed.",
+				"qa7" : "All downloaded wallpapers in the folder: /sdcard/Pictures/DroidPapers. The service does NOT download wallpapers. This to prevent data-usage on mobile networks.",
+				"qa8" : "All content that is downloaded from within the app is stored on the SD-card, based upon best-practices by Google. See the overview below.<br /><br />* sdcard/Pictures/DroidPapers : Wallpapers<br />* sdcard/Ringtones/DroidPapers : Ringtone sounds<br />* sdcard/Notifications/DroidPapers : Notification sounds<br />* sdcard/Alarms/DroidPapers : Alarm sounds<br />* sdcard/DroidPapers : Backup files",
+				"qa9" : "Please try the following steps below.<br /><br />1. Backup your favorites and profiles.<br />2. Clear app data AND cache.<br />3. Re-install and re-start app.<br />4. Download content.<br />5. Restore your favorites and profiles.<br />6. Re-try, problems should be gone."
+			}
+		},
+		"promotion" : {
+			"ratefree" : "Please rate the Free version, if you like DroidPapers.",
+			"ratedonate" : "Please rate the Donate version, if you like DroidPapers.",
+			"neverask" : "Never ask again..."
+		}
+	},
+	"services" : {
+		"currentinterval" : "Current interval",
+		"notimer" : "No timer interval active.",
+		"currentcolorsetting" : "Current setting",
+		"toasts" : {
+			"startacservice" : "Started AutoChanger service.",
+			"stopacservice" : "Stopped AutoChanger service.",
+			"regaconboot" : "Registered AutoChanger service on boot.",
+			"deregaconboot" : "De-registered AutoChanger service on boot.",
+			"enableactimer" : "Enabled AutoChanger service timer.",
+			"disableactimer" : "Disabled AutoChanger service timer.",
+			"runonce" : "Run AutoChanger service once.",
+			"timers" : {
+				"set" : "Set AutoChanger service timer to",
+				"60000" : "1 minute.",
+				"1800000" : "30 minutes.",
+				"3600000" : "1 hour.",
+				"21600000" : "6 hours.",
+				"43200000" : "12 hours.",
+				"86400000" : "1 day."
+			},
+			"startscservice" : "Started ShakeChanger service.",
+			"stopscservice" : "Stopped ShakeChanger service.",
+			"enablevibrate" : "Enabled ShakeChanger vibrate on shake.",
+			"disablevibrate" : "Disabled ShakeChanger vibrate on shake.",
+			"colors" : {
+				"set" : "Set default wallpaper color to",
+				"original" : "original.",
+				"grayscale" : "grayscale.",
+				"sepia" : "sepia."
+			},
+			"sizes" : {
+				"set" : "Set default wallpaper to keep its",
+				"width" : "width.",
+				"height" : "height."
+			},
+			"includepicturesfolder" : "Include Pictures folder with AutoChanger and ShakeChanger.",
+			"excludepicturesfolder" : "Exclude Pictures folder with AutoChanger and ShakeChanger.",
+			"includecamerafolder" : "Include Camera folder with AutoChanger and ShakeChanger.",
+			"excludecamerafolder" : "Exclude Camera folder with AutoChanger and ShakeChanger.",
+			"includedroidpapersfolder" : "Include DroidPapers folder with AutoChanger and ShakeChanger.",
+			"excludedroidpapersfolder" : "Exclude DroidPapers folder with AutoChanger and ShakeChanger."
+		},
+		"page" : {
+			"general" : {
+				"title" : "General settings",
+				"description" : "General wallpaper settings used by AutoChanger, ShakeChanger and default set option.",
+				"setwallpapersize" : "Set wallpaper with keeping its...",
+				"width" : "width",
+				"height" : "height",
+				"setwallpapercolor" : "Set wallpaper with color...",
+				"original" : "Original",
+				"grayscale" : "Grayscale",
+				"sepia" : "Sepia"
+			},
+			"shakechanger" : {
+				"title" : "ShakeChanger",
+				"description" : "ShakeChanger is a service that changes your wallpaper when your device is shaken. Only already downloaded wallpapers are being used.",
+				"on" : "on",
+				"off" : "off",
+				"shakechangerbig" : "ShakeChanger enabled",
+				"shakechangersmall" : "Enable or disable the ShakeChanger (one shake per 10 seconds).",
+				"vibratebig" : "Vibrate when shake is detected",
+				"vibratesmall" : "The device vibrates for a short moment when the shake has been detected."
+			},
+			"autochanger" : {
+				"title" : "AutoChanger",
+				"description" : "AutoChanger is a service that automatically changes your wallpaper on set intervals. Only already downloaded wallpapers are being used.",
+				"autochangerbig" : "AutoChanger enabled",
+				"autochangersmall" : "Enable or disable the AutoChanger.",
+				"on" : "on",
+				"off" : "off",
+				"intervalbig" : "Interval timer enabled",
+				"intervalsmall" : "Change the wallpaper on a given time interval.",
+				"timer" : "Set interval to once every...",
+				"intervals" : {
+					"1min" : "1 min",
+					"30min" : "30 min",
+					"1hour" : "1 hour",
+					"6hours" : "6 hours",
+					"12hours" : "12 hours",
+					"1day" : "1 day"
+				},
+				"startbootbig" : "Start service at boot",
+				"startbootsmall" : "Restart the service when the device is restarted.",
+				"testbig" : "Test AutoChanger",
+				"testsmall" : "Test the AutoChanger service by executing it once.",
+				"testbutton" : "test"
+			},
+			"shakeandauto" : {
+				"title" : "AutoChanger and ShakeChanger",
+				"description" : "Settings that both apply to AutoChanger and ShakeChanger.",
+				"on" : "on",
+				"off" : "off",
+				"picturesbig" : "Include Pictures folder",
+				"picturessmall" : "The folder sdcard/Pictures is included in the random wallpaper selection.",
+				"camerabig" : "Include Camera folder",
+				"camerasmall" : "The folder where the camera pictures are stored is included in the random wallpaper selection.",
+				"droidpapersbig" : "Exclude DroidPapers folder",
+				"droidpaperssmall" : "Exclude downloaded DroidPapers wallpapers from the random selection. This setting only works when the Picture and/or Camera folder is included."
+			}
+		}
+	},
+	"settings" : {
+		"toasts" : {
+			"enableautobackup" : "Enabled automatically backup.",
+			"disableautobackup" : "Disabled automatically backup.",
+			"enablenotifyupdate" : "Enabled notify on updates service.",
+			"disablenotifyupdate" : "Disabled notify on updates service.",
+			"enablenotifyappupdate" : "Enabled notify on app updates service.",
+			"disablenotifyappupdate" : "Disabled notify on app updates service.",
+			"enablestats" : "Enabled anonymous and non-personal statistics.",
+			"disablestats" : "Disabled anonymous and non-personal statistics.",
+			"backupstarted" : "Backup started...",
+			"nowallsbackup" : "No favorite wallpapers to backup.",
+			"noringsbackup" : "No favorite ringtones to backup.",
+			"noprofilesbackup" : "No profiles to backup.",
+			"backupdone" : "Backup favorites done.",
+			"restorestarted" : "Restore favorites and profiles started...",
+			"restoredone" : "Restore favorites and profiles done."
+		},
+		"error" : {
+			"backupfailed" : "Backup failed. Please try again or contact the developer.",
+			"restorefavwallsfailed" : "No favorite wallpapers backup is found.",
+			"restorefavringsfailed" : "No favorite ringtones backup is found.",
+			"restoreprofilesfailed" : "No profiles backup is found."
+		},
+		"dialogs" : {
+			"deletecachemessage" : "Do you want to delete the entire cache?\n\nThumb images and promotion messages will be reset. Application settings, and downloaded wallpapers and ringtones will not be deleted.\n\nThe app will exit after this operation.",
+			"deletecachetitle" : "Delete cache...",
+			"delete" : "Delete",
+			"cancel" : "Cancel",
+			"startbackupmessage" : "Do you want to start the backup? This will wipe your current backup of your favorites and profiles.\n\nThis action cannot be undone!",
+			"startbackuptitle" : "Start backup...",
+			"start" : "Start",
+			"startrestoremessage" : "Do you want to start the restore? This will wipe your current favorites and profiles.\n\nThis action cannot be undone!",
+			"startrestoretitle" : "Start restore..."
+		},
+		"page" : {
+			"backuprestore" : {
+				"title" : "Backup and restore",
+				"backupbig" : "Backup favorites and profiles",
+				"backupsmall" : "Backup is stored in: sdcard/DroidPapers.",
+				"backupbutton" : "Backup",
+				"restorebig" : "Restore favorites and profiles",
+				"restoresmall" : "Restore is from the backup in: sdcard/DroidPapers.",
+				"restorebutton" : "Restore",
+				"autobig" : "Automatically perform backup",
+				"autosmall" : "One backup once per day. Backup is started upon starting the app.",
+				"on" : "on",
+				"off" : "off"
+			},
+			"app" : {
+				"title" : "App",
+				"notifycontentbig" : "Notify on new content updates",
+				"notifycontentsmall" : "Once a day and once per update.",
+				"on" : "on",
+				"off" : "off",
+				"notifyappbig" : "Notify on new app updates",
+				"notifyappsmall" : "Once a day and once per update.",
+				"appstatsbig" : "Enable app statistics",
+				"appstatssmall" : "Statistics are anonymous and non-personal.",
+				"setinterface" : "Set interface type to...",
+				"auto" : "Auto",
+				"phone" : "Phone",
+				"tablet" : "Tablet",
+				"hidedonatebig" : "Hide Donate button",
+				"hidedonatesmall" : "If you really do not want to donate, you can switch the donate button off. It will be gone from the footer of the app. It will be back after 30 times the app is started."
+			},
+			"storage" : {
+				"title" : "Storage",
+				"deletecachebig" : "Delete entire cache",
+				"deletecachesmall" : "This will not delete downloaded wallpapers, ringtones and specific app settings.",
+				"deletecachebutton" : "Delete"
+			}
+		}
+	},
+	"updates" : {
+		"newcontent" : "New content is available!",
+		"firstlogin" : "Download required to access content.",
+		"appupdate" : "New app version available",
+		"newcontentlarge" : "New content for DroidPapers is available.<br /><br />The download will only take a minute.<br /><br />Notes",
+		"firstloginlarge" : "You need to start the download in order to see content in DroidPapers.<br /><br />The download will only take a minute.",
+		"alreadyuptodate" : "Local content is already the latest version. You can download the content again if required.<br /><br />The download will only take a minute.",
+		"internetneeded" : "You need a connection with internet to start the download.",
+		"sync" : {
+			"downloadstartdistros" : "Download of distributions started...",
+			"downloadstartwalls" : "Download of wallpapers started...",
+			"downloadstartrings" : "Download of ringtones started...",
+			"downloadstartwallnotes" : "Download of wallpaper notes started...",
+			"downloadbusydistros" : "Writing distributions to database started",
+			"downloadbusywalls" : "Writing wallpapers to database started",
+			"downloadbusyrings" : "Writing ringtones to database started",
+			"downloadbusywallnotes" : "Writing wallpaper notes to database started",
+			"downloaddonedistros" : "Download of distributions finished.",
+			"downloaddonewalls" : "Download of wallpapers finished.",
+			"downloaddonerings" : "Download of ringtones finished.",
+			"downloaddonewallnotes" : "Download of wallpaper notes finished."
+		}
+	},
+	"translation" : "Translation done by",
+	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br />Help translating at <a href='https://github.com/teusinkorg/DroidPapersLocales' target='_blank'>DroidPapers Locales - GitHub</a>."
+}

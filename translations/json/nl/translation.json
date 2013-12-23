@@ -1,0 +1,502 @@
+{
+	"leftpanel" : {
+		"home" : "Start",
+		"myfavorites" : "Mijn favorieten",
+		"myprofiles" : "Mijn profielen",
+		"allwallpapers" : "Alle achtergronden",
+		"allringtones" : "Alle geluiden"
+	},
+	"rightpanel" : {
+		"about" : "Over",
+		"support" : "Ondersteuning",
+		"contentupdates" : "Controleer op updates",
+		"settings" : "Instellingen",
+		"wallpapersettings" : "Achtergrond instellingen",
+		"sharethisapp" : "Deel deze app!",
+		"droidpapersdonate" : "DroidPapers Donatie"
+	},
+	"profilepanel" : {
+		"selectprofile" : "Selecteer een profiel"
+	},
+	"ringtonepanel" : {
+		"ringtypealarm" : "alarm",
+		"ringtypenotification" : "notificatie",
+		"ringtyperingtone" : "beltoon",
+		"setasdefault" : "Stel in als standaard",
+		"downloadonly" : "Alleen downloaden",
+		"share" : "Delen",
+		"deletedownload" : "Download verwijderen",
+		"addtoprofile" : "Aan profiel toevoegen",
+		"openinbrowser" : "Openen in browser",
+		"playstopcurrent" : "Speel/stop huidige",
+		"onlinevisits" : "Online bezoeken",
+		"filesize" : "Bestandsgrootte"
+	},
+	"wallpaper" : {
+		"distribution" : "Distributie",
+		"device" : "Apparaat",
+		"resolution" : "Resolutie",
+		"onlinevisits" : "Online bezoeken",
+		"filesize" : "Bestandsgrootte",
+		"moreinfo" : {
+			"bar" : "Meer info over achtergronden instellen...",
+			"info" : "Een achtergrond kan op twee manieren ingesteld worden. Een is met behoud van de hoogte, en de ander is met behoud van de breedte. Hieronder staat wat het exact betekend.",
+			"heighttitle" : "Stel in met behoud van hoogte",
+			"heighttext" : "Wanneer een achtergrond met behoud van de hoogte wordt geselecteerd, dan wordt de totale hoogte van de afbeelding zichtbaar op het scherm, en wanneer nodig wordt deze opgerekt of juist verkleind. Het is mogelijk dat bij deze keuze er aan de linker- en rechterkant zwarte balken zichtbaar zijn. Dit is geheel afhankelijk van de resolutie van het apparaat en de afbeelding.",
+			"widthtitle" : "Stel in met behoud van breedte",
+			"widthtext" : "Wanneer een achtergrond met behoud van de breedte wordt geselecteerd, dan wordt de totale breedte van de afbeelding zichtbaar op het scherm, en wanneer nodig wordt deze opgerekt of juist verkleind. Het is mogelijk dat bij deze keuze er aan de boven- en onderkant zwarte balken zichtbaar zijn. Dit is geheel afhankelijk van de resolutie van het apparaat en de afbeelding."
+		},
+		"panel" : {
+			"keepheight" : "Stel in met behoud van hoogte",
+			"keepwidth" : "Stel in met behoud van breedte",
+			"other" : "Overige...",
+			"colororiginal" : "Origineel",
+			"colorgrayscale" : "Zwart/wit",
+			"colorsepia" : "Sepia",
+			"addtoprofile" : "Aan profiel toevoegen",
+			"share" : "Delen",
+			"openinbrowser" : "Openen in browser",
+			"downloadonly" : "Alleen downloaden",
+			"deletedownload" : "Download verwijderen"
+		},
+		"filterpanel" : {
+			"title" : "Achtergrond filters",
+			"sd" : "Inclusief SD",
+			"hd720p" : "Inclusief HD (720p)",
+			"hd1080p" : "Inclusief HD (1080p)"
+		},
+		"error" : {
+			"norecentwalls" : "Geen recent toegevoegde achtergronden in database.",
+			"nodensitywalls" : "Geen achtergronden in database met de geselecteerde resolutie.",
+			"nodistros" : "Geen distributies in database.",
+			"nowallfilter" : "Geen achtergronden gevonden met de aangegeven filters in de database voor de geselecteerde distributie.",
+			"nofavorites" : "Je hebt geen favoriete (ster) achtergeronden geselecteerd."
+		},
+		"toasts" : {
+			"settingwallpaper" : "Achtergrond instellen..."
+		},
+		"search" : {
+			"prompt" : "Geef hier je zoekopdracht",
+			"title" : "Achtergronden zoeken...",
+			"search" : "Zoeken",
+			"cancel" : "Annuleren",
+			"notfound" : "Geen achtergronden gevonden bij je zoekopdracht.",
+			"nosearchquery" : "Geen zoekopdracht opgevenen. Geef een zoekopdracht op.",
+			"searchedfor" : "Gezocht naar"
+		}
+	},
+	"topics" : {
+		"hd1080ptitle" : "HD 1080p achtergronden",
+		"hd1080ptext" : "Bekijk alle HD 1080p (of hoger) achtergronden.",
+		"hd720ptitle" : "HD 720p achtergronden",
+		"hd720ptext" : "Bekijk alle HD 720p (of hoger) achtergronden.",
+		"sdtitle" : "SD achtergronden",
+		"sdtext" : "Bekijk alle SD (of lager) achtergronden.",
+		"top30sharedwallstitle" : "Top 30 gedeelde achtergronden",
+		"top30sharedwallstext" : "Bekijk de top 30 gedeelde achtergronden van de afgelopen maand.",
+		"top30sharedringstitle" : "Top 30 gedeelde geluiden",
+		"top30sharedringstext" : "Bekijk de top 30 gedeelde geluiden van de afgelopen maand.",
+		"last30sharedwallstitle" : "Laatste 30 gedeelde achtergronden",
+		"last30sharedwallstext" : "Bekijk de laatste 30 door gebruikers gedeelde achtergronden.",
+		"last30sharedringstitle" : "Laatste 30 gedeelde geluiden",
+		"last30sharedringstext" : "Bekijk de laatste 30 door gebruikers gedeelde geluiden.",
+		"recentaddedwallstitle" : "Recent toegevoegde nieuwe achtergronden",
+		"recentaddedwallstext" : "Bekijk de achtergronden toegevoegd in de laatste updates.",
+		"recentaddedringstitle" : "Recent toegevoegde nieuwe geluiden",
+		"recentaddedringstext" : "Bekijk de geluiden toegevoegd in de laatste updates.",
+		"topics" : "Onderwerpen",
+		"seemore" : "Selecteer een onderwerp om meer te zien.",
+		"nowifi" : "Geen Wifi internet connectie gedetecteerd. Automatisch laden van online content bij het starten van de app is uitgeschakeld om te voorkomen dat er teveel data-verkeer gegeneerd wordt over het mobiele netwerk. Tik op het vernieuwen icoon in de actie-bar boven om de content alsnog te laden."
+	},
+	"pages" : {
+		"titles" : {
+			"indexpage" : "Start",
+			"overviewfavoritespage" : "Mijn favorieten",
+			"distributionswallspage" : "Achtergronden",
+			"distributionsringspage" : "Geluiden",
+			"profileoverviewpage" : "Mijn profielen",
+			"searchringtones" : "Geluiden zoekresultaten",
+			"searchwallpapers" : "Achtergronden zoekresultaten",
+			"wallpapersettings" : "Achtergrond instellingen",
+			"settingspage" : "Instellingen",
+			"syncpage" : "Controleer op updates",
+			"supportpage" : "Ondersteuning",
+			"aboutpage" : "Over DroidPapers",
+			"profileselectpage" : "Selecteer profiel"
+		}
+	},
+	"favorites" : {
+		"favoritewallstitle" : "Mijn favoriete achtergronden",
+		"favoritewallstext" : "Bekijk al jouw favoriete achtergronden",
+		"favoriteringstitle" : "Mijn favoriete geluiden",
+		"favoriteringstext" : "Bekijk al jouw favoriete geluiden"
+	},
+	"ringtones" : {
+		"alarms" : "Alarmen",
+		"notifications" : "Notificaties",
+		"ringtones" : "Beltonen",
+		"alarm" : "Alarm",
+		"notification" : "Notificatie",
+		"ringtone" : "Beltoon",
+		"error" : {
+			"norecentadded" : "Geen recent toegevoegde geluiden in database.",
+			"nosync" : "Dit geluid is niet in de lokale database gevonden. Probeer s.v.p. opnieuw te synchroniseren.",
+			"nofavorites" : "Je hebt geen favoriete (ster) geluiden geselecteerd.",
+			"nodistros" : "Geen distributies in database.",
+			"noringsdistro" : "Geen geluiden van geselecteerde distributie in database.",
+			"nodistroselected" : "Er is geen distributie geselecteerd. Selecteer een distributie."
+		},
+		"search" : {
+			"prompt" : "Geef hier je zoekopdracht",
+			"title" : "Geluiden zoeken...",
+			"search" : "Zoeken",
+			"cancel" : "Annuleren",
+			"notfound" : "Geen geluiden gevonden bij je zoekopdracht.",
+			"nosearchquery" : "Geen zoekopdracht opgevenen. Geef een zoekopdracht op.",
+			"searchedfor" : "Gezocht naar"
+		}
+	},
+	"profiles" : {
+		"settings" : {
+			"profile" : "Profiel",
+			"title" : "Achtergrond instellingen",
+			"sizeselector" : "Stel achtergrond in met behoud van...",
+			"sizewidth" : "breedte",
+			"sizeheight" : "hoogte",
+			"colorselector" : "Stel achterground kleur in als...",
+			"currentcolor" : "Huidige kleur",
+			"deletewall" : "Verwijder achtergrond uit profiel",
+			"delete" : "Verwijder",
+			"info" : "Als er geen achtergrond of beltoon in het profiel is ingesteld, dan worden deze genegeerd bij het activeren van het profiel. Bijvoorbeeld, wanneer er geen achtergrond in het profiel is ingesteld worden alleen de geluiden geactiveerd.",
+			"setwallpaper" : "Achtergrond zal ingesteld worden met behoud van de",
+			"setcolor" : "Achtergrond zal ingesteld worden met de kleur"
+		},
+		"buttons" : {
+			"activate" : "Activeer profiel",
+			"rename" : "Hernoem profiel",
+			"delete" : "Verwijder profiel",
+			"add" : "Nieuw profiel toevoegen"
+		},
+		"error" : {
+			"profilenotfound" : "Profiel niet gevonden.",
+			"profilesnotfound" : "Geen profielen gevonden.",
+			"nowallpaper" : "Geen achtergrond ingesteld in profiel.",
+			"noalarm" : "Geen alarm ingesteld in profiel.",
+			"nonotification" : "Geen notificatie ingesteld in profiel.",
+			"noringtone" : "Geen beltoon ingesteld in profiel.",
+			"nosounds" : "Geen geluiden in profiel.",
+			"alreadyexists" : "Profiel bestaat al.",
+			"noprofile" : "Je moet een profiel naam opgeven.",
+			"notundone" : "Dit kan niet ongedaan gemaakt worden!"
+		},
+		"dialogs" : {
+			"addprofile" : "Geef de naam van het profiel op",
+			"addprofiletitle" : "Nieuw profiel toevoegen...",
+			"addprofileadd" : "Toevoegen",
+			"profileadded" : "Profiel toegevoegd",
+			"profilecancel" : "Annuleren",
+			"myprofile" : "Mijn Profiel",
+			"renameprofile" : "Geef de nieuwe naam van het profiel op",
+			"renameprofiletitle" : "Profiel hernoemen...",
+			"renameprofilerename" : "Hernoemen",
+			"profilerenamed" : "Profiel hernoemd",
+			"deleteprofile" : "Wil je het volgende profile verwijderen",
+			"deleteprofiletitle" : "Profiel verwijderen",
+			"profiledelete" : "Verwijderen",
+			"profiledeleted" : "Profiel verwijderd",
+			"activateprofile" : "Wil je het volgende profiel activeren",
+			"activateprofiletitle" : "Profiel activeren...",
+			"deleteringprofile" : "De beltoon verwijderen uit het profiel?",
+			"deleteringprofiletitle" : "Beltoon verwijderen...",
+			"ringprofiledeleted" : "Beltoon verwijderd uit profiel.",
+			"deletewallprofile" : "De achtergrond verwijderen uit het profiel?",
+			"deletewallprofiletitle" : "Achtergrond verwijderen...",
+			"wallprofiledeleted" : "Achtergrond verwijderd uit profiel."
+		}
+	},
+	"general" : {
+		"toasts" : {
+			"nointernet" : "Geen internetverbinding gedetecteerd.",
+			"nofileorweb" : "Bestand bestaat niet of webserver is niet benaderbaar. Probeer opnieuw of neem contact op met de ontwikkelaar.",
+			"addedtoprofile" : "Aan profiel toegevoegd.",
+			"previouswallpaper" : "Vorige achtergrond.",
+			"nextwallpaper" : "Volgende achtergrond.",
+			"setwallpaperdefault" : "Achtergrond instellen met standaard instellingen.",
+			"downloadonly" : "Achtergrond alleen downloaden.",
+			"waitforupdate" : "Even wachten alsjeblieft, totdat de update afgerond is.",
+			"refresh" : "Vernieuwen.",
+			"share" : "Delen.",
+			"search" : "Zoeken."
+		},
+		"dialogs" : {
+			"changescreensize" : "DroidPapers sluit af om de instelling te effectueren. Herstart DroidPapers wanneer het gesloten is.",
+			"changescreensizetitle" : "DroidPapers sluiten",
+			"changescreensizebutton" : "Oke",
+			"donate" : "Beste klant,\n\nBij dezen wil ik je vragen om een donatie te overwegen.\n\nEr zitten de nodige kosten vast aan een webserver en alle dataverkeer daar om heen. DroidPapers draait op een professionele webserver om maximale beschikbaarheid en toegang tot de content te garanderen. Dit geldt voor zowel de app als de website.\n\nDe app en website hebben geen en krijgen geen reclame puur uit principe. Dit besluit kost echter wel geld. Als je DroidPapers een leuke, nuttige of handige app vindt en blij bent met wat het biedt, overweeg dan een (kleine) donatie.\n\nIk zal je in ieder geval erg dankbaar zijn en de donatieknoppen zijn dan ook verdwenen uit de app! Als je niet wilt doneren, ook helemaal goed. Wat je ook beslist, ik hoop dat je de volledige gratis en complete DroidPapers met plezier blijft gebruiken!\n\nBedankt voor het nemen van je tijd om dit bericht te lezen.\n\nVriendelijke groeten,\n\nJoram Teusink\nTeusink.org",
+			"donatetitle" : "DroidPapers Donatie",
+			"donateoke" : "Ja, doneren!",
+			"donatecancel" : "Nee, dank je"
+		},
+		"newcontent" : "NIEUW",
+		"about" : {
+			"counters" : "Tellers",
+			"visitswallpapers" : "Totaal aantal bezoeken achtergronden",
+			"visitsringtones" : "Totaal aantal bezoeken geluiden",
+			"totalwallpapers" : "Totaal aantal achtergronden",
+			"totalringtones" : "Totaal aantal unieke geluiden",
+			"retrievinginfo" : "Informatie aan het ophalen...",
+			"reviews" : "Reviews",
+			"whatdroidpapersis" : "Wat DroidPapers is",
+			"aboutdroidpapers" : "DroidPapers levert officiele orginele achtergronden en geluiden van Android, en andere officiele en niet-officiële distributies en bedrijven.",
+			"howdroidpapersismade" : "Hoe DroidPapers is gemaakt",
+			"howdroidpapersisbuild" : "DroidPapers is gemaakt in HTML5, CSS3, JavaScript en <a href='http://jquerymobile.com/' target='_blank'>jQuery Mobile</a>. <a href='http://phonegap.com/' target='_blank'>PhoneGap</a> is ingezet om van de web-code een app te maken.<br /><br />Lees meer hierover via de link: <a href='http://droidpapers.teusink.org/about.php' target='_blank'>Over DroidPapers</a>.",
+			"webandapps" : "Websites en meer apps",
+			"disclaimertitle" : "Disclaimer en Privacy",
+			"moreinfo" : "Meer informatie...",
+			"disclaimer" : "Disclaimer",
+			"privacy" : "Privacy",
+			"disclaimertext" : "Alle content en rechten behoren bij hun respectvolle eigenaars. Er is geen overdracht van eigenaarschap van toepassing bij het gebruik van deze applicatie. Donatie gelden worden gebruikt voor de kosten van de website en dataverkeer.<br /><br />Elke achtergrond en geluid dat in deze app/website aanwezig is, is reeds gedownloaad van het internet. Er is geen intentie om copyright te schenden met deze app. Als u vindt dat uw copyright geschonden is, neem dan alstublieft contact op. De juiste vervolgacties worden dan ondernomen.",
+			"privacytext" : "Deze app verzamelt geen prive of persoonlijk te identificeren informatie, noch stuurt het zulk informatie naar online servers. App statistieken worden, wanneer ingeschakeld, geupload om informatie te genereren ter verbetering van de app. App statistieken zijn volledig anoniem en bevatten alleen generale informatie over hoe de app gebruikt wordt."
+		},
+		"support" : {
+			"devicemodel" : "Apparaat model",
+			"deviceplatform" : "Apparaat platform",
+			"version" : "versie",
+			"currentappversion" : "Huidige app versie",
+			"currentcontentversion" : "Huidige content versie",
+			"currentsetting" : "Huidige instelling",
+			"more" : "Meer vragen en ondersteuning",
+			"moreinfo" : "Kies gewoon even van de opties hieronder en stel je vraag. Vergeet niet je systeem informatie (zie hieronder) er bij te melden.",
+			"stillissues" : "Als je nog steeds problemen hebt, schroom dan niet om contact met ondersteuning op te nemen.",
+			"questions" : {
+				"qa1" : "Afbeelding kan niet ingesteld worden als achtergrond?",
+				"qa2" : "Favoriete achtergronden en/of geluiden werken niet?",
+				"qa3" : "Niet alle content lijkt beschikbaar?",
+				"qa4" : "Waarom is er geen optie om een beltoon als contact-beltoon in te stellen?",
+				"qa5" : "Hoe zit het met de AutoChanger en ShakeChanger services?",
+				"qa6" : "Waarom verandert AutoChanger mijn achtergrond soms vaker dan de interval?",
+				"qa7" : "Welke achtergronden worden gebruikt door de AutoChanger en ShakeChanger services?",
+				"qa8" : "In welke map(pen) wordt de content gedownload?",
+				"qa9" : "Vreemde fouten in DroidPapers aanwezig?"
+			},
+			"answers" : {
+				"qa1" : "Wanneer een achtergrond niet ingesteld kan worden is het mogelijk dat de download corrupt is geraakt. Dit kan bijvoorbeeld gebeuren door netwerk/internet vertragingen of onderbrekingen. Kies voor 'Download verwijderen' (de achtergrond is uit de cache en wordt opnieuw gedownload) en probeer daarna de achtergrond opnieuw in te stellen.",
+				"qa2" : "Dit kan gebeuren wanneer bestandsnamen zijn veranderd. De achtergrond of geluid verwijderen als favoriet of de gehele applicatie data verwijderen is de oplossing.",
+				"qa3" : "Het is mogelijk dat de online content niet goed verwerkt is in de lokale database. Probeer nogmaals de content te downloaden, zodat de lokale database opnieuw beschreven wordt. Mocht dit niet werken dan de cache legen of de gehele app herinstalleren.",
+				"qa4" : "Om deze functie aan te bieden, zijn de permissies 'WRITE_CONTACTS' en 'READ_CONTACTS' nodig. Deze permissies zijn nodig voor deze functies, maar het geeft impliciet rechten voor lezen en schrijven van de gehele adresboek. Voor een dergelijke relatieve simpele functie is dit niet wat te veel.</p><p>Er is echter wel een work-around. Wanneer je de beltoon als contact beltoon wilt instellen kun je het volgende doen. Eerst de beltoon downloaden met 'Alleen downloaden'. Daarna kan je via je adresboek de beltoon instellen bij je contacten.",
+				"qa5" : "Met de AutoChanger service kun je DroidPapers automatisch je achtergrond laten wijzigen. Een willekeurige, reeds gedownloade, achtergrond wordt gekozen op een door jou opgegeven interval. Een interval van 1 minuut neemt circa 5% van je accuduur. Des te groter de interval, des te lager het verbruik.</p><p>ShakeChanger doet hetzelfde, maar in plaats van dit automatisch te doen op een interval, veranderd de achtergrond wanneer je met je apparaat schudt.",
+				"qa6" : "Het Android besturingssysteem kan services stoppen en herstarten wanneer het geheugen, opslag of processorcapaciteit nodig heeft. Wanneer de service herstart wordt, wordt ook de achtergrond aangepast.",
+				"qa7" : "Alle gedownloade achtergronden in de map: /sdcard/Pictures/DroidPapers. De service download de achtergronden NIET. Dit om onnodig mobiel data-verkeer te voorkomen.",
+				"qa8" : "Alle content dat via DroidPapers wordt gedownload, wordt opgeslagen op de SD-card, gebaseerd op de best-practices van Google. Zie hiet overzicht hieronder.<br /><br />* sdcard/Pictures/DroidPapers : Achtergronden<br />* sdcard/Ringtones/DroidPapers : Beltonen<br />* sdcard/Notifications/DroidPapers : Notificaties<br />* sdcard/Alarms/DroidPapers : Alarmen<br />* sdcard/DroidPapers : Backup bestanden",
+				"qa9" : "Doorloop s.v.p. de volgende stappen.<br /><br />1. Backup je favorieten en profielen.<br />2. Wis de app data EN cache.<br />3. Herinstalleer en herstart de app.<br />4. Download de content.<br />5. Herstel je favorieten en profielen.<br />6. Probeer opnieuw, de problemen zouden nu verdwenen moeten zijn."
+			}
+		},
+		"promotion" : {
+			"ratefree" : "Beoordeel de gratis versie, als je DroidPapers top vindt.",
+			"ratedonate" : "Beoordeel de donatie versie, als je DroidPapers top vindt.",
+			"neverask" : "Nooit weer vragen..."
+		}
+	},
+	"services" : {
+		"currentinterval" : "Huidige interval",
+		"notimer" : "Geen interval actief.",
+		"currentcolorsetting" : "Huidige instelling",
+		"toasts" : {
+			"startacservice" : "AutoChanger service gestart.",
+			"stopacservice" : "AutoChanger service gestopt.",
+			"regaconboot" : "AutoChanger service geregistreerd bij het opstarten.",
+			"deregaconboot" : "AutoChanger service gederegistreerd bij het opstarten.",
+			"enableactimer" : "AutoChanger service timer geactiveerd.",
+			"disableactimer" : "AutoChanger service timer gedeactiveerd.",
+			"runonce" : "AutoChanger service eenmalig uitvoeren.",
+			"timers" : {
+				"set" : "AutoChanger service interval instellen op",
+				"60000" : "1 minuut.",
+				"1800000" : "30 minuten.",
+				"3600000" : "1 uur.",
+				"21600000" : "6 uur.",
+				"43200000" : "12 uur.",
+				"86400000" : "1 dag."
+			},
+			"startscservice" : "ShakeChanger service gestart.",
+			"stopscservice" : "ShakeChanger service gestopt.",
+			"enablevibrate" : "ShakeChanger vibreren bij schudden geactiveerd.",
+			"disablevibrate" : "ShakeChanger vibreren bij schudden gedeactiveerd.",
+			"colors" : {
+				"set" : "Stel standaard achtergrond kleur in op",
+				"original" : "origineel.",
+				"grayscale" : "zwart/wit.",
+				"sepia" : "sepia."
+			},
+			"sizes" : {
+				"set" : "Stel behoud formaat achtergrond in op",
+				"width" : "breedte.",
+				"height" : "hoogte."
+			},
+			"includepicturesfolder" : "Inclusief Pictures map met AutoChanger en ShakeChanger.",
+			"excludepicturesfolder" : "Exclusief Pictures map met AutoChanger en ShakeChanger.",
+			"includecamerafolder" : "Inclusief Camera map met AutoChanger en ShakeChanger.",
+			"excludecamerafolder" : "Exclusief Camera map met AutoChanger en ShakeChanger.",
+			"includedroidpapersfolder" : "Inclusief DroidPapers map met AutoChanger en ShakeChanger.",
+			"excludedroidpapersfolder" : "Exclusief DroidPapers map met AutoChanger en ShakeChanger."
+		},
+		"page" : {
+			"general" : {
+				"title" : "Algemene instellingen",
+				"description" : "Algemene achtergrond instellingen gebruikt door AutoChanger, ShakeChanger en standaard instel optie.",
+				"setwallpapersize" : "Stel achtergrond in met behoud van...",
+				"width" : "breedte",
+				"height" : "hoogte",
+				"setwallpapercolor" : "Stel achtergrond in met kleur...",
+				"original" : "Origineel",
+				"grayscale" : "Zwart/wit",
+				"sepia" : "Sepia"
+			},
+			"shakechanger" : {
+				"title" : "ShakeChanger",
+				"description" : "ShakeChanger is een service dat de achtergrond van je apparaat veranderd wanneer het apparaat geschud wordt. Alleen achtergrond die al gedownload zijn worden gebruikt.",
+				"on" : "aan",
+				"off" : "uit",
+				"shakechangerbig" : "ShakeChanger actief",
+				"shakechangersmall" : "Activeer of deactiveer ShakeChanger (eenmaal schudden per 10 seconden).",
+				"vibratebig" : "Vibreer wanneer er geschud wordt",
+				"vibratesmall" : "Het apparaat vibreert voor een kort moment wanneer er geschud wordt."
+			},
+			"autochanger" : {
+				"title" : "AutoChanger",
+				"description" : "AutoChanger is een service dat automatisch de achtergrond veranderd op een geselecteerde interval. Alleen achtergrond die al gedownload zijn worden gebruikt.",
+				"autochangerbig" : "AutoChanger actief",
+				"autochangersmall" : "Activeer of deactiveer AutoChanger.",
+				"on" : "aan",
+				"off" : "uit",
+				"intervalbig" : "Interval actief",
+				"intervalsmall" : "Verander de achtergrond op een aangegeven interval.",
+				"timer" : "Stel interval in op eens per...",
+				"intervals" : {
+					"1min" : "1 min",
+					"30min" : "30 min",
+					"1hour" : "1 uur",
+					"6hours" : "6 uur",
+					"12hours" : "12 uur",
+					"1day" : "1 dag"
+				},
+				"startbootbig" : "Start service bij opstarten",
+				"startbootsmall" : "Herstart de service wanneer het apparaat opnieuw opgestart wordt.",
+				"testbig" : "Test AutoChanger",
+				"testsmall" : "Test de AutoChanger service door het eenmalig uitvoeren ervan.",
+				"testbutton" : "test"
+			},
+			"shakeandauto" : {
+				"title" : "AutoChanger en ShakeChanger",
+				"description" : "Instellingen die voor zowel AutoChanger als ShakeChanger gelden.",
+				"on" : "aan",
+				"off" : "uit",
+				"picturesbig" : "Inclusief Pictures map",
+				"picturessmall" : "De map sdcard/Pictures is toegevoegd aan de willekeurige achtergrond selectie.",
+				"camerabig" : "Inclusief Camera map",
+				"camerasmall" : "De map Camera afbeeldingen is toegevoegd aan de willekeurige achtergrond selectie.",
+				"droidpapersbig" : "Exclusief DroidPapers map",
+				"droidpaperssmall" : "Exclusief gedownloade DroidPapers achtergrond in the willekeurige selectie. Deze optie werkt alleen wanneer de Pictures of Camera map in de willekeurige selectie is opgenomen."
+			}
+		}
+	},
+	"settings" : {
+		"toasts" : {
+			"enableautobackup" : "Automatische backup geactiveerd.",
+			"disableautobackup" : "Automatische backup gedeactiveerd.",
+			"enablenotifyupdate" : "Melding bij updates service geactiveerd.",
+			"disablenotifyupdate" : "Melding bij updates service gedeactiveerd.",
+			"enablenotifyappupdate" : "Melding bij app updates service geactiveerd.",
+			"disablenotifyappupdate" : "Melding bij app updates service gedeactiveerd.",
+			"enablestats" : "Anonieme en niet-persoonlijke statistieken geactiveerd.",
+			"disablestats" : "Anonieme en niet-persoonlijke statistieken gedeactiveerd.",
+			"backupstarted" : "Backup gestart...",
+			"nowallsbackup" : "Geen favoriete achtergronden om te backuppen.",
+			"noringsbackup" : "Geen favoriete geluiden om te backuppen.",
+			"noprofilesbackup" : "Geen profielen om te backup.",
+			"backupdone" : "Backup favorieten klaar.",
+			"restorestarted" : "Herstel favorieten en profielen gestart...",
+			"restoredone" : "Herstel favorieten en profielen klaar."
+		},
+		"error" : {
+			"backupfailed" : "Backup mislukt. Probeer het nog een keer of neem contact op met de ontwikkelaar.",
+			"restorefavwallsfailed" : "Geen favoriete achtergronden backup gevonden.",
+			"restorefavringsfailed" : "Geen favoriete geluiden backup gevonden.",
+			"restoreprofilesfailed" : "Geen profielen backup gevonden."
+		},
+		"dialogs" : {
+			"deletecachemessage" : "Wilt u de gehele cache legen?\n\nThumb plaatjes en promotie berichten worden ook opnieuw ingesteld. Applicatie instellingen en gedownloade achtergronden en geluiden blijven behouden.\n\nDe app zal worden afgesloten wanneer het legen van de cache klaar is.",
+			"deletecachetitle" : "Cache legen...",
+			"delete" : "Legen",
+			"cancel" : "Annuleren",
+			"startbackupmessage" : "Wil je de backup starten? Dit zal de huidige backup van de favorieten en profielen overschrijven.\n\nDit kan niet ongedaan gemaakt worden!",
+			"startbackuptitle" : "Start backup...",
+			"start" : "Start",
+			"startrestoremessage" : "Wil je het herstel starten? Dit zal de huidige favorieten en profielen overschrijven.\n\nDit kan niet ongedaan gemaakt worden!",
+			"startrestoretitle" : "Start herstel..."
+		},
+		"page" : {
+			"backuprestore" : {
+				"title" : "Backup en herstel",
+				"backupbig" : "Backup favorieten en profielen",
+				"backupsmall" : "Backup is opgeslagen in: sdcard/DroidPapers.",
+				"backupbutton" : "Backup",
+				"restorebig" : "Herstel favorieten en profielen",
+				"restoresmall" : "Herstel is van de backup in: sdcard/DroidPapers.",
+				"restorebutton" : "Herstel",
+				"autobig" : "Automatisch backup uitvoeren",
+				"autosmall" : "Eenmaal een backup per dag. Backup wordt gestart bij het starten van de app.",
+				"on" : "aan",
+				"off" : "uit"
+			},
+			"app" : {
+				"title" : "App",
+				"notifycontentbig" : "Geef een melding bij nieuwe updates",
+				"notifycontentsmall" : "Eens per dag en eens per update.",
+				"on" : "aan",
+				"off" : "uit",
+				"notifyappbig" : "Geef een melding bij nieuwe app updates",
+				"notifyappsmall" : "Eens per dag en eens per update.",
+				"appstatsbig" : "App statistieken activeren",
+				"appstatssmall" : "Statistieken zijn anoniem en niet-persoonlijk.",
+				"setinterface" : "Stel interface in op...",
+				"auto" : "Auto",
+				"phone" : "Phone",
+				"tablet" : "Tablet",
+				"hidedonatebig" : "Verberg Doneer knop",
+				"hidedonatesmall" : "Als je niet wilt doneren kan je de donatie knop verbergen. De knop zal gedurende 30 keer de app opstarten verborgen zijn van de onderkant van de app. Na deze 30 keer zal het weer zichtbaar zijn."
+			},
+			"storage" : {
+				"title" : "Geheugen",
+				"deletecachebig" : "Gehele cache legen",
+				"deletecachesmall" : "Deze actie verwijderd niet de reeds gedownloade achtergronden, geluiden en specifieke app instellingen.",
+				"deletecachebutton" : "Legen"
+			}
+		}
+	},
+	"updates" : {
+		"newcontent" : "Nieuwe content is beschikbaar!",
+		"firstlogin" : "Download nodig om toegang tot content te krijgen.",
+		"appupdate" : "Nieuwe app versie beschikbaar",
+		"newcontentlarge" : "Nieuwe content voor DroidPapers is beschikbaar.<br /><br />De download duurt maar enkele seconden.<br /><br />Notes",
+		"firstloginlarge" : "Je moet de download starten om toegang te krijgen tot de content in DroidPapers.<br /><br />De download duurt maar enkele seconden.",
+		"alreadyuptodate" : "Lokale content is al de laatste versie. Je kan de content opnieuw downloaden als dat nodig is.<br /><br />De download duurt maar enkele seconden.",
+		"internetneeded" : "Er is een internet verbinding nodig om te starten met de download.",
+		"sync" : {
+			"downloadstartdistros" : "Download van distributies gestart...",
+			"downloadstartwalls" : "Download van achtergronden gestart...",
+			"downloadstartrings" : "Download van geluiden gestart...",
+			"downloadstartwallnotes" : "Download van achtergrond notities gestart...",
+			"downloadbusydistros" : "Verwerken distributies in database gestart",
+			"downloadbusywalls" : "Verwerken achtergronden in database gestart",
+			"downloadbusyrings" : "Verwerken geluiden in database gestart",
+			"downloadbusywallnotes" : "Verwerken achtergrond notities in database gestart",
+			"downloaddonedistros" : "Download van distributies afgerond.",
+			"downloaddonewalls" : "Download van achtergronden afgerond.",
+			"downloaddonerings" : "Download van geluiden afgerond.",
+			"downloaddonewallnotes" : "Download van achtergrond notities afgerond."
+		}
+	},
+	"translation" : "Vertaling uitgevoerd door",
+	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br />Help met vertalen via <a href='https://github.com/teusinkorg/DroidPapersLocales' target='_blank'>DroidPapers Locales - GitHub</a>."
+}
