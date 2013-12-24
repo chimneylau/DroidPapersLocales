@@ -1,0 +1,48 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DroidPapers levert officiele orginele achtergronden en geluiden van Android, en andere officiele en niet-officiële distributies en bedrijven. Download de afbeelding of het geluid wat je wilt gebruiken en stel het in als je achtegrond of standaard beltoon. De app is gratis en reclame vrij.
+----
+Functies
+* Afbeeldingen openen in webbrowser.
+* Volledig scherm weergave van afbeeldingen.
+* Stel een achtergrond of beltoon in via de app.
+* Stel een achtergrond in met de kleuren zwart/wit of sepia.
+* Mogelijk om favoriete achtergronden en beltonen aan te geven.
+* Download achtergronden en geluiden, zonder in te stellen als standaard.
+* Beltonen afspelen in de app.
+* Achtergronden en geluiden delen met anderen.
+* Profielen instellen met een combinatie van achtergrond en geluiden. Een profiel kan in zijn geheel in één keer geactiveerd worden.
+* AutoChanger service om automatisch een willekeurige achtergrond in te stellen op basis van een interval.
+* ShakeChanger service om een willekeurige achtergrond in te stellen wanneer het apparaat geschud wordt.
+----
+Inbegrepen achtergronden
+
+Totaal aantal achtergronden: 
+
+Inbegrepen geluiden
+
+Totaal aantal geluiden: 
+----
+Rechten:
+- INTERNET: Voor het downloaden van content van het internet.
+- ACCESS_NETWORK_STATE: Voor het verbinden met het internet.
+- WRITE_EXTERNAL_STORAGE: Opslaan van content op de sd-card.
+- SET_WALLPAPER: Om een afbeelding als standaard achtergrond in te stellen.
+- READ_PHONE_STATE: Om te detecteren of en wat voor internet verbinding actief is.
+- READ_EXTERNAL_STORAGE: Voor het lezen van content op de sd-card.
+- WRITE_SETTINGS: Om een geluid als standaard beltoon in te stellen.
+- RECEIVE_BOOT_COMPLETED: Om services te starten bij het opstarten van het appraat.
+- VIBRATE: Vibreren wanneer er met het apparaat geschudt wordt bij de ShakeChanger service.
+
+Disclaimer:
+Alle content en rechten behoren bij hun respectvolle eigenaars. Er is geen overdracht van eigenaarschap van toepassing bij het gebruik van deze applicatie. Donatie gelden worden gebruikt voor de kosten van de website en dataverkeer. Elke achtergrond en geluid dat in deze app/website aanwezig is, is reeds gedownloaad van het internet. Er is geen intentie om copyright te schenden met deze app. Als u vindt dat uw copyright geschonden is, neem dan alstublieft contact op. De juiste vervolgacties worden dan ondernomen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gezocht naar orginele Android achtergronden en beltonen? Check dan Droidpapers!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bedankt voor het overwegen om te doneren voor DroidPapers. Naast het feit dat de donatie knoppen uit de app verdwenen zijn, ben ik je zeer dankbaar voor je donatie. Jouw donatie helpt de kosten van de webserver en houdt de app reclame-vrij.
+
+S.v.p. ook de gratis versie van DroidPapers ook downloaden en installeren. Je kan niet DroidPapers starten zonder deze gratis versie. Het donatie deel plaatst geen extra icoon (snelkoppeling).
+
+Houd er rekening mee dat ik het recht blijf houden om functies van de donatie versie te verplaatsen naar de gratis versie.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Koop de DroidPapers Donate Key en help met het ondersteunen van DroidPapers!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

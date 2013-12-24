@@ -1,0 +1,49 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DroidPapers gives an overview of wallpapers and ringtones from official stock Android and famous companies and ROMs of Android. Download the wallpaper or ringtone you like and set it from within the app. App is and stays ad-free.
+----
+Features
+* Open wallpapers in browser.
+* Fullscreen view of wallpapers.
+* Set wallpaper and ringtones from within the app.
+* Set a wallpaper in grayscale or sepia color-scheme.
+* Favorite systems to organize your favorite wallpapers and ringtones.
+* Download wallpapers and ringtones directly, without setting it as default.
+* Play ringtones in the app.
+* Share the wallpapers and ringtones you want to share with the world.
+* Setup profiles with wallpapers and ringtones. You can activate a profile and all content included gets set as system defaults.
+* AutoChanger service to random change your wallpaper based on an interval.
+* ShakeChanger service to change your wallpaper to a random one with a shake.
+----
+Included wallpapers
+
+Total wallpapers: 
+
+Included ringtones
+
+Total ringtones: 
+----
+Permissions:
+- INTERNET: For downloading the wallpapers from the internet.
+- ACCESS_NETWORK_STATE: For accessing internet through networks.
+- WRITE_EXTERNAL_STORAGE: For saving wallpapers to SD-card.
+- SET_WALLPAPER: For setting image as system wallpaper.
+- READ_PHONE_STATE: To detect if there is an Internet connection.
+- READ_EXTERNAL_STORAGE: For accessing the downloaded wallpaper from SD-card.
+- WRITE_SETTINGS: For setting a ringtone as default ringtone.
+- RECEIVE_BOOT_COMPLETED: To start services after boot of phone.
+- VIBRATE: To vibrate when the phone is shaken if the ShakeChanger is used.
+
+Disclaimer:
+All content and rights belong to their respected owners. No transfer of ownership is at hand with using this application. Donation funds are used for upkeep of server space and bandwidth.
+Every wallpaper and ringtone is downloaded from the Internet. There is no copyright violation intended with this app. If you feel that your copyright has been violated, please let me know. I will take appropriate actions.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Searched for stock Android walls and rings for hours? Check out Droidpapers!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thank you for considering donating for DroidPapers. Beside the fact that you don't see the DroidPapers Donate key button(s) in the app anymore, I am very, very, grateful for your donation. Your donation will keep the webserver running and the app ad-free!
+
+Please download and install the free version of DroidPapers also. You cannot start DroidPapers with only the key being installed. This key will not install an additional icon.
+
+Please note that I maintain the right to move features from the donated version to the free version.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Buy the DroidPapers Donate Key and help supporting DroidPapers!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
