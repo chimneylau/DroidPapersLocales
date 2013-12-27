@@ -37,8 +37,8 @@ All words below should and must not be translated.
 - jQuery Mobile
 - PhoneGap
 - GitHub
-- <a href='[url]'></a>
-- <br />
+- ```<a href='[url]'></a>```
+- ```<br />```
 - \n
 - INTERNET
 - ACCESS_NETWORK_STATE
