@@ -1,5 +1,5 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-DroidPapers levert officiele orginele achtergronden en geluiden van Android, en andere officiele en niet-officiële distributies en bedrijven. Download de afbeelding of het geluid wat je wilt gebruiken en stel het in als je achtegrond of standaard beltoon. De app is gratis en reclame vrij.
+﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DroidPapers levert officiële originele achtergronden en geluiden van Android, en van andere officiële en niet-officiële distributies en bedrijven. Download de afbeelding of het geluid wat je wilt gebruiken en stel het in als je achtergrond of standaard beltoon. De app is gratis en reclame vrij.
 ----
 Functies
 * Afbeeldingen openen in webbrowser.
@@ -25,24 +25,24 @@ Totaal aantal geluiden:
 Rechten:
 - INTERNET: Voor het downloaden van content van het internet.
 - ACCESS_NETWORK_STATE: Voor het verbinden met het internet.
-- WRITE_EXTERNAL_STORAGE: Opslaan van content op de sd-card.
+- WRITE_EXTERNAL_STORAGE: Opslaan van content op de sdcard.
 - SET_WALLPAPER: Om een afbeelding als standaard achtergrond in te stellen.
 - READ_PHONE_STATE: Om te detecteren of en wat voor internet verbinding actief is.
-- READ_EXTERNAL_STORAGE: Voor het lezen van content op de sd-card.
+- READ_EXTERNAL_STORAGE: Voor het lezen van content op de sdcard.
 - WRITE_SETTINGS: Om een geluid als standaard beltoon in te stellen.
-- RECEIVE_BOOT_COMPLETED: Om services te starten bij het opstarten van het appraat.
-- VIBRATE: Vibreren wanneer er met het apparaat geschudt wordt bij de ShakeChanger service.
+- RECEIVE_BOOT_COMPLETED: Om services te starten bij het opstarten van het apparaat.
+- VIBRATE: Vibreren wanneer er met het apparaat geschud wordt bij de ShakeChanger service.
 
 Disclaimer:
-Alle content en rechten behoren bij hun respectvolle eigenaars. Er is geen overdracht van eigenaarschap van toepassing bij het gebruik van deze applicatie. Donatie gelden worden gebruikt voor de kosten van de website en dataverkeer. Elke achtergrond en geluid dat in deze app/website aanwezig is, is reeds gedownloaad van het internet. Er is geen intentie om copyright te schenden met deze app. Als u vindt dat uw copyright geschonden is, neem dan alstublieft contact op. De juiste vervolgacties worden dan ondernomen.
+Alle content en rechten behoren bij hun respectvolle eigenaars. Er is geen overdracht van eigenaarschap van toepassing bij het gebruik van deze applicatie. Donatie gelden worden gebruikt voor de kosten van de website en dataverkeer. Elke achtergrond en geluid dat in deze app/website aanwezig is, is reeds gedownload van het internet. Er is geen intentie om copyright te schenden met deze app. Als u vindt dat uw copyright geschonden is, neem dan alstublieft contact op. De juiste vervolg acties worden dan ondernomen.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Gezocht naar orginele Android achtergronden en beltonen? Check dan Droidpapers!
+Gezocht naar originele Android achtergronden en beltonen? Check dan DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Bedankt voor het overwegen om te doneren voor DroidPapers. Naast het feit dat de donatie knoppen uit de app verdwenen zijn, ben ik je zeer dankbaar voor je donatie. Jouw donatie helpt de kosten van de webserver en houdt de app reclame-vrij.
+Bedankt voor het overwegen om te doneren voor DroidPapers. Naast het feit dat de donatie knoppen uit de app verdwenen zijn, ben ik je zeer dankbaar voor je donatie. Jouw donatie helpt de kosten van de webserver te betalen en houdt de app reclame-vrij.
 
-S.v.p. ook de gratis versie van DroidPapers ook downloaden en installeren. Je kan niet DroidPapers starten zonder deze gratis versie. Het donatie deel plaatst geen extra icoon (snelkoppeling).
+S.v.p. de gratis versie van DroidPapers ook downloaden en installeren. Je kan niet DroidPapers starten zonder deze gratis versie. Het donatie deel plaatst geen extra icoon (snelkoppeling).
 
-Houd er rekening mee dat ik het recht blijf houden om functies van de donatie versie te verplaatsen naar de gratis versie.
+Houdt er rekening mee dat ik het recht blijf houden om functies van de donatie versie te verplaatsen naar de gratis versie.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Koop de DroidPapers Donate Key en help met het ondersteunen van DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

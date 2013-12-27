@@ -39,12 +39,12 @@
 		"onlinevisits" : "Online visits",
 		"filesize" : "Filesize",
 		"moreinfo" : {
-			"bar" : "More info about setting wallpaper...",
-			"info" : "You can set a wallpaper with two different options. One is with keeping its height, and the other with keeping its width. Below you can see what it means.",
-			"heighttitle" : "Set with keeping height",
-			"heighttext" : "When you keep the wallpaper height of the wallpaper, the entire height of the image is show on the device screen and stretched or shrunk if necessary. This might result in black strips on the left and on the right side, or that parts of the wallpaper on the left or on the right side are cut off. This depends on screen resolution versus image resolution.",
-			"widthtitle" : "Set with keeping width",
-			"widthtext" : "When you keep the wallpaper width of the wallpaper, the entire width of the image is show on the device screen and stretched or shrunk if necessary. This might result in black strips on the top and on the bottom side, or that parts of the wallpaper on the top or on the bottom side are cut off. This depends on screen resolution versus image resolution."
+			"bar" : "More info about setting wallpapers...",
+			"info" : "You can set a wallpaper with two different options. One is with keeping its height, and the other is with keeping its width. Below you can see what it means.",
+			"heighttitle" : "Set with keeping its height",
+			"heighttext" : "When you keep the height of the wallpaper, the entire height of the image is shown on the device screen and stretched or shrunk if necessary. This might result in black stripes on the left and on the right side, or that parts of the wallpaper on the left or on the right side are cut off. This depends on screen resolution versus image resolution.",
+			"widthtitle" : "Set with keeping its width",
+			"widthtext" : "When you keep the width of the wallpaper, the entire width of the image is shown on the device screen and stretched or shrunk if necessary. This might result in black stripes on the top and on the bottom side, or that parts of the wallpaper on the top or on the bottom side are cut off. This depends on screen resolution versus image resolution."
 		},
 		"panel" : {
 			"keepheight" : "Set with keeping height",
@@ -67,9 +67,9 @@
 		},
 		"error" : {
 			"norecentwalls" : "No wallpapers in database that are recently added.",
-			"nodensitywalls" : "No wallpapers in database that has that density.",
+			"nodensitywalls" : "No wallpapers in database that has the selected densities.",
 			"nodistros" : "No distributions in database.",
-			"nowallfilter" : "No wallpapers that matches the filters found in database for selected distribution.",
+			"nowallfilter" : "No wallpapers that matches the filters are found in database for the selected distribution.",
 			"nofavorites" : "You do not have any favorite (starred) wallpapers selected."
 		},
 		"toasts" : {
@@ -80,7 +80,7 @@
 			"title" : "Search wallpapers...",
 			"search" : "Search",
 			"cancel" : "Cancel",
-			"notfound" : "No wallpapers in database that matches the search query.",
+			"notfound" : "No wallpapers in database found that matches your search query.",
 			"nosearchquery" : "No search query specified. Please specify a search query.",
 			"searchedfor" : "Searched for"
 		}
@@ -101,12 +101,12 @@
 		"last30sharedringstitle" : "Last 30 shared ringtones",
 		"last30sharedringstext" : "See the last 30 by users shared ringtones.",
 		"recentaddedwallstitle" : "Recent added new wallpapers",
-		"recentaddedwallstext" : "See the wallpapers added in the most recent updates.",
+		"recentaddedwallstext" : "See the wallpapers added in the most couple of recent updates.",
 		"recentaddedringstitle" : "Recent added new ringtones",
-		"recentaddedringstext" : "See the ringtones added in the most recent updates.",
+		"recentaddedringstext" : "See the ringtones added in the most couple of recent updates.",
 		"topics" : "Topics",
 		"seemore" : "Please select a topic to see more.",
-		"nowifi" : "No Wifi Internet connection detected. Auto load of online content on app launch is therefore disabled to prevent data-usage on mobile-networks. Press refresh icon in action bar above to load the content."
+		"nowifi" : "No WiFi Internet connection detected. Auto load of online content on app launch is therefore disabled to prevent data-usage on mobile-networks. Tap refresh icon in the action bar above to load the content."
 	},
 	"pages" : {
 		"titles" : {
@@ -139,9 +139,9 @@
 		"notification" : "Notification",
 		"ringtone" : "Ringtone",
 		"error" : {
-			"norecentadded" : "No ringtones in database that are recently added.",
-			"nosync" : "This ringtone is not in the local database. Please (re)sync content.",
-			"nofavorites" : "You do not have any favorite (starred) ringtone selected.",
+			"norecentadded" : "No ringtones in database found that are recently added.",
+			"nosync" : "This ringtone is not in the local database. Please update content.",
+			"nofavorites" : "You do not have any favorite (starred) ringtones selected.",
 			"nodistros" : "No distributions in database.",
 			"noringsdistro" : "No ringtones in database for selected distribution.",
 			"nodistroselected" : "No distribution is selected. Please select a distribution."
@@ -151,7 +151,7 @@
 			"title" : "Search ringtones...",
 			"search" : "Search",
 			"cancel" : "Cancel",
-			"notfound" : "No ringtones in database that matches the search query.",
+			"notfound" : "No ringtones in database found that matches the search query.",
 			"nosearchquery" : "No search query specified. Please specify a search query.",
 			"searchedfor" : "Searched for"
 		}
@@ -167,7 +167,7 @@
 			"currentcolor" : "Current color",
 			"deletewall" : "Delete wallpaper from profile",
 			"delete" : "Delete",
-			"info" : "When there is no wallpaper or ringtone set in a profile, it gets ignored with activating profile. In example, when you do not specify a wallpaper in a profile, then by activating your profile only the sounds gets activated.",
+			"info" : "When there is no wallpaper or ringtone set in a profile, it gets ignored when activating the selected profile. In example, when you do not specify a wallpaper in a profile, then by activating your profile only the sounds gets activated.",
 			"setwallpaper" : "Wallpaper set to keeping its",
 			"setcolor" : "Wallpaper set to color"
 		},
@@ -184,7 +184,7 @@
 			"noalarm" : "No alarm set in profile.",
 			"nonotification" : "No notification set in profile.",
 			"noringtone" : "No ringtone set in profile.",
-			"nosounds" : "No sounds in profile.",
+			"nosounds" : "No sounds set in profile.",
 			"alreadyexists" : "Profile name already exists.",
 			"noprofile" : "You need to specify a profile name.",
 			"notundone" : "This cannot be undone!"
@@ -232,7 +232,7 @@
 			"changescreensize" : "DroidPapers will exit in order to let the new setting take effect. Please restart DroidPapers after closure.",
 			"changescreensizetitle" : "Close DroidPapers",
 			"changescreensizebutton" : "Oke",
-			"donate" : "Dear customer,\n\nI ask you to please consider a donation.\n\nIt costs money to run a webserver to host and transport content. DroidPapers is running on a professional webserver to garantuee maximum availability of access to the content included in the app as well as the website.\n\nThe app and website does not have any ads because of principle, but it takes a chunk out of the income. If you like the app and what it has to offer and want to donate to DroidPapers, please do so.\n\nI would be very gratefull and the donate buttons will be gone in the app for you! If not, no hard feelings of any kind. In both cases I hope you will continue to use and enjoy the completely free and full-featured DroidPapers!\n\nThanks for taking your time to read this.\n\nKind regards,\n\nJoram Teusink\nTeusink.org",
+			"donate" : "Dear customer,\n\nI ask you to please consider a donation.\n\nIt costs money to run a webserver to host and transport content. DroidPapers is running on a professional webserver to guarantee maximum availability of access to the content included in the app as well as the website.\n\nThe app and website does not have any ads because of principle, but it takes a chunk out of the income. If you like the app and what it has to offer and want to donate to DroidPapers, please do so.\n\nI would be very grateful and the donate buttons will be gone in the app for you! If not, no hard feelings of any kind. In both cases I hope you will continue to use and enjoy the completely free and full-featured DroidPapers!\n\nThanks for taking your time to read this.\n\nKind regards,\n\nJoram Teusink\nTeusink.org",
 			"donatetitle" : "DroidPapers Donate",
 			"donateoke" : "Yeah, donate!",
 			"donatecancel" : "No, thanks"
@@ -247,7 +247,7 @@
 			"retrievinginfo" : "Retrieving data...",
 			"reviews" : "Reviews",
 			"whatdroidpapersis" : "What DroidPapers is",
-			"aboutdroidpapers" : "DroidPapers delivers official stock wallpapers and ringtones from Android, and other official and non-official distributions and vendors.",
+			"aboutdroidpapers" : "DroidPapers delivers official stock wallpapers and ringtones from Android, and from other official and non-official distributions and vendors.",
 			"howdroidpapersismade" : "How DroidPapers is made",
 			"howdroidpapersisbuild" : "DroidPapers is build in HTML5, CSS3, JavaScript and <a href='http://jquerymobile.com/' target='_blank'>jQuery Mobile</a>. <a href='http://phonegap.com/' target='_blank'>PhoneGap</a> is used to create a native app of the web-code.<br /><br />Read more about this here: <a href='http://droidpapers.teusink.org/about.php' target='_blank'>About DroidPapers</a>.",
 			"webandapps" : "Websites and more apps",
@@ -283,17 +283,17 @@
 				"qa1" : "When a wallpaper is failing to be set as your system wallpaper, the download went probably corrupt. This can happen on occasion, because of network slowdowns or failures. To retry select the option in the menu 'Delete from device' and then re-set the wallpaper again. The cache is deleted so it will trigger a re-download.",
 				"qa2" : "This can happen when filenames are changed. Just un-favorite the broken wallpaper or ringtone or clear the entire application data.",
 				"qa3" : "Content may not be processed into the local database correctly. Try a force download to re-write the content to the database. If that does not help try deleting your cache or reinstalling the app first.",
-				"qa4" : "In order to provide this feature, the permissions 'WRITE_CONTACTS' and 'READ_CONTACTS' are needed. These permissions are needed for such a feature, but it gives the app implicit permission to access, read and write the entire addressbook. For such a simple feature, it is just to much.</p><p>There is a work-around though. When you want to set a ringtone as a contact ringtone, do the following. Open the ringtone in DroidPapers. Select 'Download only'. Open your contact in your addressbook and select the ringtone from there.",
-				"qa5" : "With the AutoChanger service you can let DroidPapers automatically change your wallpaper. A random already downloaded wallpaper will be chosen on a specific time interval. You can choose the interval you desire. An interval of 1 minute roughly takes about 5% of your battery time. The greater the interval, the less usage.</p><p>ShakeChanger does the same job, but instead automatically changing the wallpaper in given intervals, it changes the wallpaper when the device is shaken.",
+				"qa4" : "In order to provide this feature, the permissions 'WRITE_CONTACTS' and 'READ_CONTACTS' are needed. These permissions are needed for such a feature, but it gives the app implicit permission to access, read and write the entire address-book. For such a simple feature, it is just to much.<br /><br />There is a work-around though. When you want to set a ringtone as a contact ringtone, do the following. Open the ringtone in DroidPapers. Select 'Download only'. Open your contact in your address-book and select the ringtone from there.",
+				"qa5" : "With the AutoChanger service you can let DroidPapers automatically change your wallpaper. A random already downloaded wallpaper will be chosen on a specific time interval. You can choose the interval you desire. An interval of 1 minute roughly takes about 5% of your battery time. The greater the interval, the less usage.<br /><br />ShakeChanger does the same job, but instead automatically changing the wallpaper in given intervals, it changes the wallpaper when the device is shaken.",
 				"qa6" : "The Android operating system can stop and restart services when it needs more memory, storage or processing power. When the service restarts the wallpaper gets changed.",
 				"qa7" : "All downloaded wallpapers in the folder: /sdcard/Pictures/DroidPapers. The service does NOT download wallpapers. This to prevent data-usage on mobile networks.",
-				"qa8" : "All content that is downloaded from within the app is stored on the SD-card, based upon best-practices by Google. See the overview below.<br /><br />* sdcard/Pictures/DroidPapers : Wallpapers<br />* sdcard/Ringtones/DroidPapers : Ringtone sounds<br />* sdcard/Notifications/DroidPapers : Notification sounds<br />* sdcard/Alarms/DroidPapers : Alarm sounds<br />* sdcard/DroidPapers : Backup files",
-				"qa9" : "Please try the following steps below.<br /><br />1. Backup your favorites and profiles.<br />2. Clear app data AND cache.<br />3. Re-install and re-start app.<br />4. Download content.<br />5. Restore your favorites and profiles.<br />6. Re-try, problems should be gone."
+				"qa8" : "All content that is downloaded from within the app is stored on the SD-card, based upon best-practices by Google. See the overview below.<br /><br />* /sdcard/Pictures/DroidPapers : Wallpapers<br />* /sdcard/Ringtones/DroidPapers : Ringtone sounds<br />* /sdcard/Notifications/DroidPapers : Notification sounds<br />* /sdcard/Alarms/DroidPapers : Alarm sounds<br />* /sdcard/DroidPapers : Backup files",
+				"qa9" : "Please try the following steps below.<br /><br />1. Backup your favorites and profiles.<br />2. Clear app data AND cache.<br />3. Re-install and re-start app.<br />4. Download content.<br />5. Restore your favorites and profiles.<br />6. Re-try, the problems should be gone."
 			}
 		},
 		"promotion" : {
-			"ratefree" : "Please rate the Free version, if you like DroidPapers.",
-			"ratedonate" : "Please rate the Donate version, if you like DroidPapers.",
+			"ratefree" : "Please rate the free version, if you like DroidPapers.",
+			"ratedonate" : "Please rate the donate version, if you like DroidPapers.",
 			"neverask" : "Never ask again..."
 		}
 	},
@@ -392,7 +392,7 @@
 				"on" : "on",
 				"off" : "off",
 				"picturesbig" : "Include Pictures folder",
-				"picturessmall" : "The folder sdcard/Pictures is included in the random wallpaper selection.",
+				"picturessmall" : "The folder /sdcard/Pictures is included in the random wallpaper selection.",
 				"camerabig" : "Include Camera folder",
 				"camerasmall" : "The folder where the camera pictures are stored is included in the random wallpaper selection.",
 				"droidpapersbig" : "Exclude DroidPapers folder",
@@ -439,10 +439,10 @@
 			"backuprestore" : {
 				"title" : "Backup and restore",
 				"backupbig" : "Backup favorites and profiles",
-				"backupsmall" : "Backup is stored in: sdcard/DroidPapers.",
+				"backupsmall" : "Backup is stored in: /sdcard/DroidPapers.",
 				"backupbutton" : "Backup",
 				"restorebig" : "Restore favorites and profiles",
-				"restoresmall" : "Restore is from the backup in: sdcard/DroidPapers.",
+				"restoresmall" : "Restore is from the backup in: /sdcard/DroidPapers.",
 				"restorebutton" : "Restore",
 				"autobig" : "Automatically perform backup",
 				"autosmall" : "One backup once per day. Backup is started upon starting the app.",
@@ -464,7 +464,7 @@
 				"phone" : "Phone",
 				"tablet" : "Tablet",
 				"hidedonatebig" : "Hide Donate button",
-				"hidedonatesmall" : "If you really do not want to donate, you can switch the donate button off. It will be gone from the footer of the app. It will be back after 30 times the app is started."
+				"hidedonatesmall" : "If you really do not want to donate, you can switch the donate button off. It will be gone from the footer of the app. Though, it will be back after 30 times the app is started."
 			},
 			"storage" : {
 				"title" : "Storage",
@@ -498,5 +498,5 @@
 		}
 	},
 	"translation" : "Translation done by",
-	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br />Help translating at <a href='https://github.com/teusinkorg/DroidPapersLocales' target='_blank'>DroidPapers Locales - GitHub</a>."
+	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br />Help translating at <a href='https://github.com/teusinkorg/DroidPapersLocales' target='_blank'>DroidPapersLocales - GitHub</a>."
 }

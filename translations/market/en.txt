@@ -1,5 +1,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-DroidPapers gives an overview of wallpapers and ringtones from official stock Android and famous companies and ROMs of Android. Download the wallpaper or ringtone you like and set it from within the app. App is and stays ad-free.
+DroidPapers delivers official stock wallpapers and ringtones from Android, and from other official and non-official distributions and vendors. Download the wallpaper or ringtone you like and set it from within the app. App is and stays ad-free.
 ----
 Features
 * Open wallpapers in browser.
@@ -37,7 +37,7 @@ Disclaimer:
 All content and rights belong to their respected owners. No transfer of ownership is at hand with using this application. Donation funds are used for upkeep of server space and bandwidth.
 Every wallpaper and ringtone is downloaded from the Internet. There is no copyright violation intended with this app. If you feel that your copyright has been violated, please let me know. I will take appropriate actions.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Searched for stock Android walls and rings for hours? Check out Droidpapers!
+Searched for stock Android walls and rings for hours? Check out DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Thank you for considering donating for DroidPapers. Beside the fact that you don't see the DroidPapers Donate key button(s) in the app anymore, I am very, very, grateful for your donation. Your donation will keep the webserver running and the app ad-free!
 

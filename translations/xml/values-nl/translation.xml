@@ -13,7 +13,7 @@
     <string name="downloadcomplete">Download klaar</string>
     <string name="alreadydownloaded">Bestand is al gedownload.</string>
     <string name="downloadwrong">Download is verkeerd gegaan, probeer het nog een keer of neem contact op met de ontwikkelaar.</string>
-    <string name="fileweberror">Bestand bestaat niet of kan geen verbinding maken met de webserver, probreer het nog een keer of neem contact op met de ontwikkelaar.</string>
+    <string name="fileweberror">Bestand bestaat niet of kan geen verbinding maken met de webserver, probeer het nog een keer of neem contact op met de ontwikkelaar.</string>
     <string name="fileerror">Bestand downloaden mislukt, probeer het nog een keer of neem contact op met de ontwikkelaar.</string>
     <string name="wallpaperset">Achtergrond ingesteld.</string>
     <string name="errorsettingwall">Achtergrond instellen mislukt. Probeer het nog een keer.</string>
