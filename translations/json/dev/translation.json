@@ -249,7 +249,7 @@
 			"whatdroidpapersis" : "What DroidPapers is",
 			"aboutdroidpapers" : "DroidPapers delivers official stock wallpapers and ringtones from Android, and from other official and non-official distributions and vendors.",
 			"howdroidpapersismade" : "How DroidPapers is made",
-			"howdroidpapersisbuild" : "DroidPapers is build in HTML5, CSS3, JavaScript and <a href='http://jquerymobile.com/' target='_blank'>jQuery Mobile</a>. <a href='http://phonegap.com/' target='_blank'>PhoneGap</a> is used to create a native app of the web-code.<br /><br />Read more about this here: <a href='http://droidpapers.teusink.org/about.php' target='_blank'>About DroidPapers</a>.",
+			"howdroidpapersisbuild" : "DroidPapers is build in HTML5, CSS3, JavaScript and <a id='linkjQueryMobile'>jQuery Mobile</a>. <a id='linkPhoneGap'>PhoneGap</a> is used to create a native app of the web-code.<br /><br />Read more about this here: <a id='linkAboutDroidPapers'>About DroidPapers</a>.",
 			"webandapps" : "Websites and more apps",
 			"disclaimertitle" : "Disclaimer and Privacy",
 			"moreinfo" : "More information...",
@@ -498,5 +498,5 @@
 		}
 	},
 	"translation" : "Translation done by",
-	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br />Help translating at <a href='https://github.com/teusinkorg/DroidPapersLocales' target='_blank'>DroidPapersLocales - GitHub</a>."
+	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br /><br />Help translating at <a id='linkDroidPapersLocales'>DroidPapersLocales - GitHub</a>."
 }

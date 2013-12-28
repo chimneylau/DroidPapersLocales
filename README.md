@@ -37,7 +37,7 @@ All words below should and must not be translated.
 - jQuery Mobile
 - PhoneGap
 - GitHub
-- ```<a href='[url]'></a>```
+- ```<a [id / href]></a>```
 - ```<br />```
 - \n
 - INTERNET
@@ -55,7 +55,7 @@ All words below should and must not be translated.
 - /sdcard/Alarms/DroidPapers
 - /sdcard/DroidPapers
 
-<h3>What you should translate</h3>
+<h3>What you should translate in JSON</h3>
 In the example below you only need to translate the x. The identifiers a, b, and c should not be translated. All {, }, " and : should be left in place.
 
 ```
@@ -72,7 +72,16 @@ In the example below you only need to translate the x. The identifiers a, b, and
 }
 ```
 
-When you are done translating, check the entire file in the validator: http://jsonlint.com/ . All errors are notified. The results should be: "Valid JSON".
+<h3>What you should translate in DATA (XML)</h3>
+In the example below you only need to translate the x. The identifiers a, b, and c should not be translated. All <, >, ", ? and the xml and resource tags should be left in place.
+```
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a">x</string>
+	<string name="b">x</string>
+	<string name="c">x</string>
+</resources>
+```
 
 <h2>License</h2>
 

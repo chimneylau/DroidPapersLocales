@@ -249,7 +249,7 @@
 			"whatdroidpapersis" : "Wat DroidPapers is",
 			"aboutdroidpapers" : "DroidPapers levert officiële originele achtergronden en geluiden van Android, en van andere officiële en niet-officiële distributies en bedrijven.",
 			"howdroidpapersismade" : "Hoe DroidPapers is gemaakt",
-			"howdroidpapersisbuild" : "DroidPapers is gemaakt in HTML5, CSS3, JavaScript en <a href='http://jquerymobile.com/' target='_blank'>jQuery Mobile</a>. <a href='http://phonegap.com/' target='_blank'>PhoneGap</a> is ingezet om van de web-code een app te maken.<br /><br />Lees meer hierover via de link: <a href='http://droidpapers.teusink.org/about.php' target='_blank'>Over DroidPapers</a>.",
+			"howdroidpapersisbuild" : "DroidPapers is gemaakt in HTML5, CSS3, JavaScript en <a id='linkjQueryMobile'>jQuery Mobile</a>. <a id='linkPhoneGap'>PhoneGap</a> is ingezet om van de web-code een app te maken.<br /><br />Lees meer hierover via de link: <a id='linkAboutDroidPapers'>Over DroidPapers</a>.",
 			"webandapps" : "Websites en meer apps",
 			"disclaimertitle" : "Disclaimer en Privacy",
 			"moreinfo" : "Meer informatie...",
@@ -498,5 +498,5 @@
 		}
 	},
 	"translation" : "Vertaling uitgevoerd door",
-	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br />Help met vertalen via <a href='https://github.com/teusinkorg/DroidPapersLocales' target='_blank'>DroidPapersLocales - GitHub</a>."
+	"author" : "<a href='https://plus.google.com/+JoramTeusink/' target='_blank'>Joram Teusink</a><br /><br />Help met vertalen via <a id='linkDroidPapersLocales'>DroidPapersLocales - GitHub</a>."
 }
