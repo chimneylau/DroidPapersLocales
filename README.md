@@ -88,33 +88,38 @@ In the example below you only need to translate the x. The identifiers a, b, and
 <table>
 <tr>
 	<th>Language</th>
-	<th>Code</th>
+	<th>JSON</th>
+	<th>XML</th>
 	<th>Contributor</th>
 	<th>Link</th>
 <tr>
 <tr>
 	<td>Chinese 中文</td>
-	<td>zh-hk / values-zh-hk</td>
+	<td>zh-hk</td>
+	<td>values-zh-hk</td>
 	<td>Ron Tam</td>
 	<td></td>
 </tr>
 <tr>
 	<td>Dutch</td>
-	<td>nl / values-nl</td>
+	<td>nl</td>
+	<td>values-nl</td>
 	<td>Joram Teusink</td>
-	<td>https://plus.google.com/+JoramTeusink/</td>
+	<td><a href="https://plus.google.com/+JoramTeusink/">Google+ Profile</a></td>
 </tr>
 <tr>
 	<td>English</td>
-	<td>en / values</td>
+	<td>en</td>
+	<td>values</td>
 	<td>Joram Teusink</td>
-	<td>https://plus.google.com/+JoramTeusink/</td>
+	<td><a href="https://plus.google.com/+JoramTeusink/">Google+ Profile</a></td>
 </tr>
 <tr>
 	<td>Italian (not finished yet)</td>
-	<td>it / values-it</td>
+	<td>it</td>
+	<td>values-it</td>
 	<td>Giampaolo Frello</td>
-	<td>http://playboard.me/android/channels/5252aa084dc45462285ad955</td>
+	<td><a href="http://playboard.me/android/channels/5252aa084dc45462285ad955">Playboard Profile</a></td>
 </tr>
 </table>
 
