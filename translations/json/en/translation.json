@@ -63,7 +63,8 @@
 			"title" : "Wallpaper filters",
 			"sd" : "Include SD",
 			"hd720p" : "Include HD (720p)",
-			"hd1080p" : "Include HD (1080p)"
+			"hd1080p" : "Include HD (1080p)",
+			"hd2160p" : "Include HD (2160p)"
 		},
 		"error" : {
 			"norecentwalls" : "No wallpapers in database that are recently added.",
@@ -86,8 +87,10 @@
 		}
 	},
 	"topics" : {
+		"hd2160ptitle" : "HD 2160p wallpapers",
+		"hd2160ptext" : "See all HD 2160p (or higher) wallpapers.",
 		"hd1080ptitle" : "HD 1080p wallpapers",
-		"hd1080ptext" : "See all HD 1080p (or higher) wallpapers.",
+		"hd1080ptext" : "See all HD 1080p wallpapers.",
 		"hd720ptitle" : "HD 720p wallpapers",
 		"hd720ptext" : "See all HD 720p wallpapers.",
 		"sdtitle" : "SD wallpapers",

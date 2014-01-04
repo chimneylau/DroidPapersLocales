@@ -83,6 +83,41 @@ In the example below you only need to translate the x. The identifiers a, b, and
 </resources>
 ```
 
+<h2>Languages</h2>
+
+<table>
+<tr>
+	<th>Language</th>
+	<th>Code</th>
+	<th>Contributor</th>
+	<th>Link</th>
+<tr>
+<tr>
+	<td>Chinese 中文</td>
+	<td>zh-hk / values-zh-hk</td>
+	<td>Ron Tam</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Dutch</td>
+	<td>nl / values-nl</td>
+	<td>Joram Teusink</td>
+	<td>https://plus.google.com/+JoramTeusink/</td>
+</tr>
+<tr>
+	<td>English</td>
+	<td>en / values</td>
+	<td>Joram Teusink</td>
+	<td>https://plus.google.com/+JoramTeusink/</td>
+</tr>
+<tr>
+	<td>Italian (not finished yet)</td>
+	<td>it / values-it</td>
+	<td>Giampaolo Frello</td>
+	<td>http://playboard.me/android/channels/5252aa084dc45462285ad955</td>
+</tr>
+</table>
+
 <h2>License</h2>
 
 All work in this repo is released under the GNU LesserGeneral Public License.

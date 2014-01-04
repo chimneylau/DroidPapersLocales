@@ -63,7 +63,8 @@
 			"title" : "Achtergrond filters",
 			"sd" : "Inclusief SD",
 			"hd720p" : "Inclusief HD (720p)",
-			"hd1080p" : "Inclusief HD (1080p)"
+			"hd1080p" : "Inclusief HD (1080p)",
+			"hd2160p" : "Inclusief HD (2160p)"
 		},
 		"error" : {
 			"norecentwalls" : "Geen recent toegevoegde achtergronden in database.",
@@ -86,8 +87,10 @@
 		}
 	},
 	"topics" : {
+		"hd2160ptitle" : "HD 2160p achtergronden",
+		"hd2160ptext" : "Bekijk alle HD 2160p (of hoger) achtergronden.",
 		"hd1080ptitle" : "HD 1080p achtergronden",
-		"hd1080ptext" : "Bekijk alle HD 1080p (of hoger) achtergronden.",
+		"hd1080ptext" : "Bekijk alle HD 1080p achtergronden.",
 		"hd720ptitle" : "HD 720p achtergronden",
 		"hd720ptext" : "Bekijk alle HD 720p (of hoger) achtergronden.",
 		"sdtitle" : "SD achtergronden",
