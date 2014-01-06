@@ -8,16 +8,16 @@
 	},
 	"rightpanel" : {
 		"about" : "Info",
-		"support" : "Supporto",
+		"support" : "Assistenza",
 		"contentupdates" : "Controlla aggiornamento contenuti",
 		"settings" : "Impostazioni",
-		"wallpapersettings" : "Impostazioni Sfondi",
+		"wallpapersettings" : "Impostazioni sfondi",
 		"sharethisapp" : "Condividi l'app!",
 		"droidpapersdonate" : "Donazioni DroidPapers"
 	},
 	"profilepanel" : {
-		"selectprofile" : "Seleziona un profilo per attivarlo"
-	},
+		"selectprofile" : "Seleziona il profilo da attivare"
+	},imp
 	"ringtonepanel" : {
 		"ringtypealarm" : "allarme",
 		"ringtypenotification" : "notifica",
@@ -123,7 +123,7 @@
 			"wallpapersettings" : "Impostazioni sfondi",
 			"settingspage" : "Impostazioni",
 			"syncpage" : "Verifica aggiornamenti contenuti",
-			"supportpage" : "Supporto",
+			"supportpage" : "Assistenza",
 			"aboutpage" : "Info su DroidPapers",
 			"profileselectpage" : "Seleziona profilo"
 		}
@@ -144,7 +144,7 @@
 		"error" : {
 			"norecentadded" : "Nessuna suoneria aggiunta recentemente nel database.",
 			"nosync" : "Questa suoneria non è presente nel database locale. Aggiorna il contenuto.",
-			"nofavorites" : "Non hai nessuna suoneria contrassegnata come preferita.",
+			"nofavorites" : "Non hai nessun suono contrassegnato come preferito.",
 			"nodistros" : "Nessuna distribuzione nel database.",
 			"noringsdistro" : "Nessuna suoneria nel database per la distribuzione selezionata.",
 			"nodistroselected" : "Nessuna distribuzione selezionata.Selezionane una."
@@ -164,8 +164,8 @@
 			"profile" : "Profilo",
 			"title" : "Impostazioni sfondo",
 			"sizeselector" : "Imposta lo sfondo mantenendo la sua...",
-			"sizewidth" : "larghezza",
-			"sizeheight" : "altezza",
+			"sizewidth" : "largh.",
+			"sizeheight" : "alt.",
 			"colorselector" : "Imposta sfondo con il colore...",
 			"currentcolor" : "attuale",
 			"deletewall" : "Elimina sfondo dal profilo",
@@ -253,13 +253,13 @@
 			"aboutdroidpapers" : "DroidPapers fornisce gli sfondi e le suonerie ufficiali di Android e di tante distribuzioni officiali e non ufficiali.",
 			"howdroidpapersismade" : "Come è stato realizzato DroidPapers",
 			"howdroidpapersisbuild" : "DroidPapers è realizzato in HTML5, CSS3, JavaScript e <a id='linkjQueryMobile'>jQuery Mobile</a>, <a id='linkPhoneGap'>PhoneGap</a> è stato utilizzato per creare un’applicazione nativa del codice web.<br /><br />Ulteriori informazioni su: <a id='linkAboutDroidPapers'>Info su DroidPapers</a>.",
-			"webandapps" : "Website a altre app",
+			"webandapps" : "Website e altre app",
 			"disclaimertitle" : "Disclaimer e Privacy",
 			"moreinfo" : "Ulteriori informazioni...",
 			"disclaimer" : "Disclaimer",
 			"privacy" : "Privacy",
-			"disclaimertext" : "Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br/><br />Ogni sfondo e suoneria inclusi nell’applicazione e nel website sono stati scaricati da Internet. Non si è voluto violare alcun copyright intenzionalmente.Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.",
-			"privacytext" : "Quest’applicazione non raccoglie alcun dato personale o privato che possa identificare l’utente e non invia alcun informazione in tal senso a server online. Tutte le statistiche relative all’applicazione vengono utilizzare per generare informazioni tese al miglioramento dell’applicazione stessa. Dette statistiche sono completamente anonime e contengono solamente informazioni generali sull’utilizzo dell’applicazione."
+			"disclaimertext" : "Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br/><br />Ogni sfondo e suoneria inclusi nell’applicazione e nel website sono stati scaricati da Internet. Non si è voluto violare alcun copyright intenzionalmente. Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.",
+			"privacytext" : "Quest’applicazione non raccoglie alcun dato personale o privato che possa identificare l’utente e non invia alcun informazione in tal senso a server online. Tutte le statistiche relative all’applicazione vengono utilizzate per generare informazioni tese al miglioramento dell’applicazione stessa. Dette statistiche sono completamente anonime e contengono solamente informazioni generali sull’utilizzo dell’applicazione."
 		},
 		"support" : {
 			"devicemodel" : "Modello del dispositivo",
@@ -268,29 +268,29 @@
 			"currentappversion" : "Versione dell’applicazione",
 			"currentcontentversion" : "Versione del contenuto",
 			"currentsetting" : "Impostazioni attuali",
-			"more" : "Altre domande e supporto",
-			"moreinfo" : "Devi semplicemente premere uno dei pulsanti seguenti e porre la tua domanda. Non dimenticare di includere le informazioni di sistema seguenti.",
-			"stillissues" : "Se hai ancora dei problemi non ti dimenticare di contattare il supporto.",
+			"more" : "Altre domande e assistenza",
+			"moreinfo" : "Devi semplicemente premere uno dei pulsanti seguenti e porre la tua domanda. Non dimenticare di includere le informazioni di sistema come specificato.",
+			"stillissues" : "Se hai ancora dei problemi non ti dimenticare di contattare il servizio di assistenza.",
 			"questions" : {
 				"qa1" : "Perché lo sfondo non può essere impostato?",
 				"qa2" : "Sfondi e/o suonerie preferiti danneggiati?",
-				"qa3" : "Non tutto il contenuto è disponibile ?",
-				"qa4" : "Perché non compare nessuna opzione per impostare una suoneria come predefinita ?",
+				"qa3" : "Non tutto il contenuto è disponibile ,
+				"qa4" : "Perché non compare nessuna opzione per impostare una suoneria come predefinita?",
 				"qa5" : "Cosa sono i servizi AutoChanger e ShakeChanger?",
-				"qa6" : "Perché AutoChanger modifica lo sfondo piu frequentemente dell’intervallo?",
+				"qa6" : "Perché AutoChanger modifica lo sfondo più frequentemente dell’intervallo?",
 				"qa7" : "Quali sfondi sono utilizzati dai servizi AutoChanger e ShakeChanger?",
 				"qa8" : "In quali cartelle sono scaricati i contenuti?",
 				"qa9" : "Hai qualche altro problema con DroidPapers?"
 			},
 			"answers" : {
-				"qa1" : "Se non si riesce a impostare lo sfondo con ogni probabilità il download è corrotto. Questa può a volte accadere a causa di rallentamenti o interruzioni del server. Per riprovare seleziona la voce 'Elimina dal dispositivo' e impostalo nuovamente. La cache verrà cancellata e il download inizierà nuovamente.",
+				"qa1" : "Se non si riesce a impostare lo sfondo con ogni probabilità il download è corrotto. Questo può a volte accadere a causa di rallentamenti o interruzioni del server. Per riprovare seleziona la voce 'Elimina dal dispositivo' e impostalo nuovamente. La cache verrà cancellata e il download inizierà nuovamente.",
 				"qa2" : "Può succedere se i nomi dei file sono stati modificati. Rimuovi il contrassegno di preferito dallo sfondo o suoneria ed elimina i dati dell’applicazione.",
 				"qa3" : "Il contenuto potrebbe non essere stato processato correttamente nel database locale. Forza un download al fine di riscrivere il database. Se non funziona elimina la cache o reinstalla l’applicazione.",
-				"qa4" : "Al fine di fornire questa funzione sono necessari i permessi 'WRITE_CONTACTS' e 'READ_CONTACTS'. Questi permessi sono si necessari ma danno anche l’implicita autorizzazione di accedere, leggere e scrivere l’intera rubrica. Un po’ troppo per una semplice funzione come quella richiesta.<br /><br />Esiste comunque un metodo alternativo. Se vuoi impostare la suoneria come predefinita per un contatto opera come segue. Apri la suoneria in DroidPapers. Seleziona 'Solo Download’. Apri il tuo contatto nella tua rubrica e seleziona la suoneria.",
-				"qa5" : "Tramite il servizio AutoChanger potrai far cambiare il tuo sfondo automaticamente da DroidPapers. Uno sfondo già scaricato verra impostato automaticamente ad uno specifico intervallo. Potrai scegliere il tuo intervallo preferito. Un intervallo di 1 minuto richiede il dispendio di circa il 5% di batteria. Più largo l’intervallo minore il dispendio di batteria.<br /><br />ShakeChanger esegue la stessa funzione eccetto che anziché cambiare lo sfondo a specifici intervalli lo fa ogni volta che si scuote il dispositivo.",
+				"qa4" : "Al fine di fornire questa funzione sono necessari i permessi 'WRITE_CONTACTS' e 'READ_CONTACTS'. Questi permessi sono si necessari ma danno anche l’implicita autorizzazione di accedere, leggere e scrivere l’intera rubrica. Un po’ troppo per una semplice funzione come quella richiesta.<br /><br />Esiste comunque un metodo alternativo. Se vuoi impostare la suoneria come predefinita per un contatto opera come segue: apri la suoneria in DroidPapers, seleziona 'Solo Download', apri il tuo contatto nella tua rubrica e seleziona la suoneria.",
+				"qa5" : "Tramite il servizio AutoChanger potrai far cambiare il tuo sfondo automaticamente da DroidPapers. Uno sfondo già scaricato verrà impostato automaticamente ad uno specifico intervallo. Potrai scegliere il tuo intervallo preferito. Un intervallo di 1 minuto richiede il dispendio di circa il 5% di batteria. Più largo l’intervallo minore il dispendio di batteria.<br /><br />ShakeChanger esegue la stessa funzione eccetto che anziché cambiare lo sfondo a specifici intervalli lo fa ogni volta che si scuote il dispositivo.",
 				"qa6" : "Il sistema operativo Android può fermare e far ripartire dei servizi qualora servisse più memoria, spazio su disco o potenza di processore. Al riavvio del servizio lo sfondo verrà quindi modificato.",
 				"qa7" : "Tutti gli sfondi scaricati sono contenuti nella cartella seguente: /sdcard/Pictures/DroidPapers. Il servizio NON scarica gli sfondi al fine di prevenire utilizzo di dati mobili.",
-				"qa8" : "Tutto il contenuto scaricato dall’applicazione viene salvato nella SD-card, seguendo le pratiche Google. Quindi come segue:.<br /><br />* /sdcard/Pictures/DroidPapers : Sfondi<br />* /sdcard/Ringtones/DroidPapers : Suonerie sounds<br />* /sdcard/Notifications/DroidPapers: Notification sounds<br />* /sdcard/Alarms/DroidPapers : Allarmi<br />* /sdcard/DroidPapers : File di Backup",
+				"qa8" : "Tutto il contenuto scaricato dall’applicazione viene salvato nella SD-card, seguendo le pratiche Google. Quindi come segue:<br /><br />* /sdcard/Pictures/DroidPapers : Sfondi<br />* /sdcard/Ringtones/DroidPapers : Suonerie<br />* /sdcard/Notifications/DroidPapers: Notifiche<br />* /sdcard/Alarms/DroidPapers : Allarmi<br />* /sdcard/DroidPapers : File di Backup",
 				"qa9" : "Prova i passi seguenti.<br /><br />1. Effettua il Backup dei tuoi preferiti e profili.<br />2. Elimina i dati dell’applicazione E la cache.<br />3. Reinstalla e riavvia l’applicazione.<br />4. Scarica il contenuto.<br />5. Ripristina i tuoi preferiti e i profili.<br />6. I tuoi problemi dovrebbero essere risolti."
 			}
 		},
@@ -333,8 +333,8 @@
 			},
 			"sizes" : {
 				"set" : "Imposta lo sfondo predefinito fisso su",
-				"width" : "larghezza.",
-				"height" : "altezza."
+				"width" : "largh.",
+				"height" : "alt.."
 			},
 			"includepicturesfolder" : "Includi la cartella Pictures con AutoChanger e ShakeChanger.",
 			"excludepicturesfolder" : "Escludi la cartella Pictures con AutoChanger e ShakeChanger.",
@@ -387,7 +387,7 @@
 				"startbootsmall" : "Riavvia il servizio quando riaccendi il dispositivo.",
 				"testbig" : "Test AutoChanger",
 				"testsmall" : "Effettua un test del servizio AutoChanger eseguendolo una volta.",
-				"testbutton" : "test"
+				"testbutton" : "Test"
 			},
 			"shakeandauto" : {
 				"title" : "AutoChanger e ShakeChanger",
@@ -399,20 +399,20 @@
 				"camerabig" : "Includi la cartella Camera",
 				"camerasmall" : "La cartella con le foto scattate dalla fotocamera viene inclusa nella selezione casuale dello sfondo.",
 				"droidpapersbig" : "Escludi cartella DroidPapers",
-				"droidpaperssmall" : "Escludi gli sfondi scaricati da DroidPapers dalla selezione casuale. Questa impostazione funziona solo se almeno una delle cartelle Picture e Camera è inclusa."
+				"droidpaperssmall" : "Escludi gli sfondi scaricati da DroidPapers dalla selezione casuale. Questa impostazione funziona solo se almeno una delle cartelle Pictures e Camera è inclusa."
 			}
 		}
 	},
 	"settings" : {
 		"toasts" : {
-			"enableautobackup" : "Abilita backup automatici.",
-			"disableautobackup" : "Disabilita backup automatici.",
-			"enablenotifyupdate" : "Abilita notifiche aggiornamenti contenuti.",
-			"disablenotifyupdate" : "Disabilita notifiche aggiornamenti contenuti.",
-			"enablenotifyappupdate" : "Abilita notifiche aggiornamenti applicazione.",
-			"disablenotifyappupdate" : "Disabilita notifiche aggiornamenti applicazione.",
-			"enablestats" : "Abilita invio statistiche personali anonime.",
-			"disablestats" : "Disbilita invio statistiche personali anonime.",
+			"enableautobackup" : "Backup automatici abilitati.",
+			"disableautobackup" : "Backup automatici disabilitati.",
+			"enablenotifyupdate" : "Notifiche aggiornamenti contenuti abilitati.",
+			"disablenotifyupdate" : "Notifiche aggiornamenti contenuti disabilitati.",
+			"enablenotifyappupdate" : "Notifiche aggiornamenti applicazione abilitati.",
+			"disablenotifyappupdate" : "Notifiche aggiornamenti applicazione disabilitati.",
+			"enablestats" : "Invio statistiche personali anonime abilitato.",
+			"disablestats" : "Invio statistiche personali anonime disabilitato.",
 			"backupstarted" : "Backup avviato...",
 			"nowallsbackup" : "Nessuno sfondo preferito da salvare su backup.",
 			"noringsbackup" : "Nessuna suoneria preferita da salvare su backup..",
@@ -442,7 +442,7 @@
 			"backuprestore" : {
 				"title" : "Backup e Ripristino",
 				"backupbig" : "Backup preferiti e profili",
-				"backupsmall" : "Il file di Backup è stato salvato in: /sdcard/DroidPapers.",
+				"backupsmall" : "Il file di Backup viene salvato in: /sdcard/DroidPapers.",
 				"backupbutton" : "Backup",
 				"restorebig" : "Ripristino preferiti e profili",
 				"restoresmall" : "Ripristino da file di backup in: /sdcard/DroidPapers.",
