@@ -30,21 +30,21 @@
 		"openinbrowser" : "Apri nel browser",
 		"playstopcurrent" : "Riproduci / Interrompi",
 		"onlinevisits" : "Visite Online",
-		"filesize" : "Di.File"
+		"filesize" : "Dim.File"
 	},
 	"wallpaper" : {
 		"distribution" : "Distribuzione",
 		"device" : "Dispositivo",
 		"resolution" : "Risoluzione",
 		"onlinevisits" : "Visite Online",
-		"filesize" : "Di.File",
+		"filesize" : "Dim.File",
 		"moreinfo" : {
 			"bar" : "Altre info sulle impostazione sfondi...",
-			"info" : "Puoi impostare uno sfondo in due opzioni diverse.Mantenedo l’altezza o mantendendo la larghezza Di seguito il significato.",
+			"info" : "Puoi impostare uno sfondo in due opzioni diverse. Mantenedo l’altezza o mantendendo la larghezza. Di seguito il significato.",
 			"heighttitle" : "Imposta mantenendo l’altezza",
-			"heighttext" : "Mantendo l’altezza l’intera altezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allargandola o restringendola quando necessario.Ciò può portare a delle bande nere sui lati sinistro e destro oppure parte dello sfondo potrebbe essere tagliato.Questo in funzione della risoluzione dello schermo e della foto.",
+			"heighttext" : "Mantendo l’altezza l’intera altezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allungandola o accorciandola quando necessario.Ciò può portare a delle bande nere sui lati sinistro e destro oppure parte dello sfondo potrebbe essere tagliato. Questo in funzione della risoluzione dello schermo e della foto.",
 			"widthtitle" : "Imposta mantenendo la larghezza",
-			"widthtext" : "Mantendo la larghezza l’intera larghezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allargandola o restringendola quando necessario.Ciò può portare a delle bande nere sui lati superiori ed inferiori oppure parte dello sfondo potrebbe essere tagliato.Questo in funzione della risoluzione dello schermo e della foto."
+			"widthtext" : "Mantendo la larghezza l’intera larghezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allargandola o restringendola quando necessario.Ciò può portare a delle bande nere sui lati superiori ed inferiori oppure parte dello sfondo potrebbe essere tagliato. Questo in funzione della risoluzione dello schermo e della foto."
 		},
 		"panel" : {
 			"keepheight" : "Imposta mantenendo l’altezza",
@@ -67,7 +67,7 @@
 			"hd2160p" : "Includi HD (2160p)"
 		},
 		"error" : {
-			"norecentwalls" : "Nessuno sfondo aggiunto recentemente nel database.",
+			"norecentwalls" : "Nessuno sfondo aggiunto recentemente al database.",
 			"nodensitywalls" : "Nessuno sfondo nel database con la densità richiesta.",
 			"nodistros" : "Nessuna distribuzione nel database.",
 			"nowallfilter" : "Nessuno sfondo in accordo ai filtri selezionati nel database per la distribuzione selezionata.",
@@ -82,19 +82,19 @@
 			"search" : "Cerca",
 			"cancel" : "Annulla",
 			"notfound" : "Nessuno sfondo presente nel database rispondente alla tua chiave di ricerca.",
-			"nosearchquery" : "Nessuna chiave di ricerca specificata.Specificane una.",
+			"nosearchquery" : "Nessuna chiave di ricerca specificata. Specificane una.",
 			"searchedfor" : "Ricerca di"
 		}
 	},
 	"topics" : {
 		"hd2160ptitle" : "Sfondi HD 2160p",
-		"hd2160ptext" : "Vedi tutti gli sfondi HD 2160p(o superiore).",
+		"hd2160ptext" : "Vedi tutti gli sfondi HD 2160p (o superiore).",
 		"hd1080ptitle" : "Sfondi HD 1080p",
 		"hd1080ptext" : "Vedi tutti gli sfondi HD 1080p.",
 		"hd720ptitle" : "Sfondi HD 720p",
 		"hd720ptext" : "Vedi tutti gli sfondi HD 720p.",
 		"sdtitle" : "Sfondi SD",
-		"sdtext" : "Vedi tutti gli sfondi(o inferiore).",
+		"sdtext" : "Vedi tutti gli sfondi SD (o inferiore).",
 		"top30sharedwallstitle" : "Top 30 sfondi condivisi",
 		"top30sharedwallstext" : "Vedi i 30 sfondi più condivisi nel mese scorso.",
 		"top30sharedringstitle" : "Top 30 suonerie condivise",
@@ -109,7 +109,7 @@
 		"recentaddedringstext" : "Vedi le suonerie aggiunte negli ultimi aggiornamenti.",
 		"topics" : "Argomenti",
 		"seemore" : "Seleziona un argomento per saperne di più.",
-		"nowifi" : "Nessuna connessione WiFi presente.Il caricamento in automatico di contenuto online all’avvio dell’applicazione è stato quindi disabilitato per prevenire utilizzo dati mobile.Premi l’icona di aggiorna sull’action bar per caricare il contenuto."
+		"nowifi" : "Nessuna connessione WiFi presente. Il caricamento in automatico di contenuto online all’avvio dell’applicazione è stato quindi disabilitato per prevenire utilizzo dati mobile. Premi l’icona aggiorna sull’action bar per caricare il contenuto."
 	},
 	"pages" : {
 		"titles" : {
@@ -143,7 +143,7 @@
 		"ringtone" : "Suoneria",
 		"error" : {
 			"norecentadded" : "Nessuna suoneria aggiunta recentemente nel database.",
-			"nosync" : "Questa suoneria non è presente nel database locale.Aggiorna il contenuto.",
+			"nosync" : "Questa suoneria non è presente nel database locale. Aggiorna il contenuto.",
 			"nofavorites" : "Non hai nessuna suoneria contrassegnata come preferita.",
 			"nodistros" : "Nessuna distribuzione nel database.",
 			"noringsdistro" : "Nessuna suoneria nel database per la distribuzione selezionata.",
@@ -155,7 +155,7 @@
 			"search" : "Cerca",
 			"cancel" : "Annullal",
 			"notfound" : "Nessuno suoneria presente nel database rispondente alla tua chiave di ricerca.",
-			"nosearchquery" : "Nessuna chiave di ricerca specificata.Specificane una.",
+			"nosearchquery" : "Nessuna chiave di ricerca specificata. Specificane una.",
 			"searchedfor" : "Ricerca di"
 		}
 	},
@@ -163,14 +163,14 @@
 		"settings" : {
 			"profile" : "Profilo",
 			"title" : "Impostazioni sfondo",
-			"sizeselector" : "Imposta los fondo mantenendo la sua...",
+			"sizeselector" : "Imposta lo sfondo mantenendo la sua...",
 			"sizewidth" : "larghezza",
 			"sizeheight" : "altezza",
 			"colorselector" : "Imposta sfondo con il colore...",
-			"currentcolor" : "Attuale",
+			"currentcolor" : "attuale",
 			"deletewall" : "Elimina sfondo dal profilo",
 			"delete" : "Elimina",
-			"info" : "Quando nessuno sfondo o suoneria sono impostati in un profilo, questo viene ignorato all’attivazione del profilo suddetto.Per esempio se un profilo non contiene alcuno sfondo l’attivazione del profilo porterà all’attivazione della sola suoneria",
+			"info" : "Quando nessuno sfondo o suoneria sono impostati in un profilo, questo viene ignorato all’attivazione del profilo suddetto. Per esempio se un profilo non contiene alcuno sfondo l’attivazione del profilo porterà all’attivazione della sola suoneria",
 			"setwallpaper" : "Lo sfondo manterrà la sua",
 			"setcolor" : "Lo sfondo manterrà il suo colore"
 		},
@@ -184,7 +184,7 @@
 			"profilenotfound" : "Profilo non trovato.",
 			"profilesnotfound" : "Nessun profilo trovato.",
 			"nowallpaper" : "Nessuno sfondo impostato nel profilo.",
-			"noalarm" : "Nessun allarme imposta nel profilo.",
+			"noalarm" : "Nessun allarme impostato nel profilo.",
 			"nonotification" : "Nessuna notifica impostata nel profilo.",
 			"noringtone" : "Nessuna suoneria impostata nel profilo.",
 			"nosounds" : "Nessun suono impostato nel profilo.",
@@ -232,10 +232,10 @@
 			"search" : "Cerca."
 		},
 		"dialogs" : {
-			"changescreensize" : "DroidPapers si chiuderà al fine di permettere le nuove impostazioni.Lancia nuovamente DroidPapers dopo la chiusura.",
+			"changescreensize" : "DroidPapers si chiuderà al fine di permettere le nuove impostazioni. Lancia nuovamente DroidPapers dopo la chiusura.",
 			"changescreensizetitle" : "Chiudi DroidPapers",
 			"changescreensizebutton" : "Ok",
-			"donate" : "Caro utente,\n\nTi chiedo cortesemente di considerare di effettuare una donazione.\n\nTenere in funzione il server per mantenere e gestire i file costa del denaro.DroidPapers utilizza un server professionale per garantire il massimo accesso del contenuto dell’applicazione come pure il relativo sito internet.\n\nL’applicazione e il sito internet non includono alcuno pubblicità per principio a scapito di entrate finanziarie.Se sei soddisfatto dell’applicazione e vuoi effettuare una donazione a DroidPapers ti chiedo cortesemente di farlo.\n\nNe sarò felice e per te il pulsante di donazione scomparirà dall’applicazione!In caso contrario nessun problema.In ogni caso spero che continuerai ad usare con soddisfazione la sempre gratutia applicazione DroidPapers!\n\nGrazie per aver usato il tuo tempo per leggere.\n\nCari saluti,\n\nJoram Teusink\nTeusink.org",
+			"donate" : "Caro utente,\n\nTi chiedo cortesemente di considerare di effettuare una donazione.\n\nTenere in funzione il server per mantenere e gestire i file costa del denaro. DroidPapers utilizza un server professionale per garantire il massimo accesso del contenuto dell’applicazione come pure il relativo sito internet.\n\nL’applicazione e il sito internet non includono alcuno pubblicità per principio a scapito di entrate finanziarie. Se sei soddisfatto dell’applicazione e vuoi effettuare una donazione a DroidPapers ti chiedo cortesemente di farlo.\n\nNe sarò felice e per te il pulsante di donazione scomparirà dall’applicazione! In caso contrario nessun problema. In ogni caso spero che continuerai ad usare con soddisfazione la sempre gratutia applicazione DroidPapers!\n\nGrazie per aver usato il tuo tempo per leggere.\n\nCari saluti,\n\nJoram Teusink\nTeusink.org",
 			"donatetitle" : "Donazione DroidPapers",
 			"donateoke" : "Si, voglio donare!",
 			"donatecancel" : "No, grazie"
@@ -252,14 +252,14 @@
 			"whatdroidpapersis" : "Cos’è DroidPapers",
 			"aboutdroidpapers" : "DroidPapers fornisce gli sfondi e le suonerie ufficiali di Android e di tante distribuzioni officiali e non ufficiali.",
 			"howdroidpapersismade" : "Come è stato realizzato DroidPapers",
-			"howdroidpapersisbuild" : "DroidPapers è realizzato in HTML5, CSS3, JavaScript e <a id='linkjQueryMobile'>jQuery Mobile</a>, <a id='linkPhoneGap'>PhoneGap</a> è stato utilizzato per creare un’applicazione nativa del codice web.<br /><br />Ulteriori informazioni su : <a id='linkAboutDroidPapers'>Info su DroidPapers</a>.",
-			"webandapps" : "Websites a altre app",
+			"howdroidpapersisbuild" : "DroidPapers è realizzato in HTML5, CSS3, JavaScript e <a id='linkjQueryMobile'>jQuery Mobile</a>, <a id='linkPhoneGap'>PhoneGap</a> è stato utilizzato per creare un’applicazione nativa del codice web.<br /><br />Ulteriori informazioni su: <a id='linkAboutDroidPapers'>Info su DroidPapers</a>.",
+			"webandapps" : "Website a altre app",
 			"disclaimertitle" : "Disclaimer e Privacy",
 			"moreinfo" : "Ulteriori informazioni...",
 			"disclaimer" : "Disclaimer",
 			"privacy" : "Privacy",
-			"disclaimertext" : "Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari.Nessun trasferimento di possesso viene fornito usando questa applicazione.Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br /><br />Ogni sfondo e suoneria inclusi nell’applicazione e nel website sono stati scaricati da Internet.Non si è voluto violare alcun copyright intenzionalmente.Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.",
-			"privacytext" : "Quest’applicazione non raccoglie alcun dato personale o privato che possa identificare l’utente e non invia alcun informazione in tal senso a server online.Tutte le statistiche relative all’applicazione vengono utilizzare per generare informazioni tese al miglioramento dell’applicazione stessa.Dette statistiche sono completamente anonime e contengono solamente informazioni generali sull’utilizzo dell’applicazione."
+			"disclaimertext" : "Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br/><br />Ogni sfondo e suoneria inclusi nell’applicazione e nel website sono stati scaricati da Internet. Non si è voluto violare alcun copyright intenzionalmente.Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.",
+			"privacytext" : "Quest’applicazione non raccoglie alcun dato personale o privato che possa identificare l’utente e non invia alcun informazione in tal senso a server online. Tutte le statistiche relative all’applicazione vengono utilizzare per generare informazioni tese al miglioramento dell’applicazione stessa. Dette statistiche sono completamente anonime e contengono solamente informazioni generali sull’utilizzo dell’applicazione."
 		},
 		"support" : {
 			"devicemodel" : "Modello del dispositivo",
@@ -269,28 +269,28 @@
 			"currentcontentversion" : "Versione del contenuto",
 			"currentsetting" : "Impostazioni attuali",
 			"more" : "Altre domande e supporto",
-			"moreinfo" : "Devi semplicemente premere uno dei pulsanti seguenti e porre la tua domanda.Non dimenticare di includere le informazioni di sistema seguenti.",
+			"moreinfo" : "Devi semplicemente premere uno dei pulsanti seguenti e porre la tua domanda. Non dimenticare di includere le informazioni di sistema seguenti.",
 			"stillissues" : "Se hai ancora dei problemi non ti dimenticare di contattare il supporto.",
 			"questions" : {
-				"qa1" : "Perché lo sfondo non può essere impostato ?",
-				"qa2" : "Sfondi e / o suonerie preferiti danneggiati ?",
+				"qa1" : "Perché lo sfondo non può essere impostato?",
+				"qa2" : "Sfondi e/o suonerie preferiti danneggiati?",
 				"qa3" : "Non tutto il contenuto è disponibile ?",
-				"qa4" : "Perché non compare nessuna opzione di impostare una suoneria come predefinita ?",
-				"qa5" : "Cosa sono i servizi AutoChanger e ShakeChanger ?",
-				"qa6" : "Perché AutoChanger modifica lo sfondo piu frequentemente dell’intervallo ?",
-				"qa7" : "Quali sfondi sono utilizzati dai servizi AutoChanger e ShakeChanger ?",
-				"qa8" : "In quali cartelle sono scaricati i contenuti ?",
-				"qa9" : "Hai qualche strano problema con DroidPapers ?"
+				"qa4" : "Perché non compare nessuna opzione per impostare una suoneria come predefinita ?",
+				"qa5" : "Cosa sono i servizi AutoChanger e ShakeChanger?",
+				"qa6" : "Perché AutoChanger modifica lo sfondo piu frequentemente dell’intervallo?",
+				"qa7" : "Quali sfondi sono utilizzati dai servizi AutoChanger e ShakeChanger?",
+				"qa8" : "In quali cartelle sono scaricati i contenuti?",
+				"qa9" : "Hai qualche altro problema con DroidPapers?"
 			},
 			"answers" : {
-				"qa1" : "Se non si riesce a impostare lo sfondo con ogni probabilità il download è corrotto.Questa puo a volte accadere a causa di rallentamenti o interruzioni del server.Per riprova seleziona la voce 'Elimina dal dispositivo' e impostalo nuovamente.La cache verra cancellata e il download inizierà nuovamente.",
-				"qa2" : "Puo succedere se i nomi dei file sono stati modificati.Rimuovi il contrassegno di preferito dallo sfondo o suoneria e elimina i dati dell’applicazione.",
-				"qa3" : "Il contenuto potrebbe no essere stato processato correttamente nel database locale.Forza un download al fine di riscrivere il database.Se non funziona elimina la cache o reinstalla l’applicazione.",
-				"qa4" : "Al fine di fornire questa funzione sono necessari i permessi 'WRITE_CONTACTS' e 'READ_CONTACTS'.Questi permessi sono si necessari ma danno anche l’implicita autorizzazione di accedere, leggere e scrivere l’intera rubrica.Un po’ troppo per una semplice funzione come quella richiesta.<br /><br />Esiste comunque un metodo alternativo.Se vuoi impostare la suoneria come predefinita per un contatto opera come segue.Apri la suoneria in DroidPapers.Seleziona 'Solo Download’. Apri il tuo contatto nella tua rubrica e seleziona la suoneria.",
-				"qa5" : "Tramite il servizio AutoChanger potrai far cambiare il tuo sfondo automaticamente da DroidPapers. Uno sfondo già scaricato verra impostato automaticamente ad uno specifico intervallo. Potrai scegliere il tuo intervallo preferito. Un intervallo di 1 minuto richiede il dispendio di circa il 5% di batteria. Più largo l’intervallo minore il dispendio di batteria..<br /><br />ShakeChanger esegue la stessa funzione eccetto che anziché cambiare lo sfondo a specifici intervalli lo fa ogni volta che si scuote il dispositivo.",
-				"qa6" : "Il sistema operativo Android può fermare e far ripartire dei servizi qualora servisse piu memoria, spazio su disco o potenza di processore. Al riavvio del servizio lo sfondo verra quindi modificato.",
+				"qa1" : "Se non si riesce a impostare lo sfondo con ogni probabilità il download è corrotto. Questa può a volte accadere a causa di rallentamenti o interruzioni del server. Per riprovare seleziona la voce 'Elimina dal dispositivo' e impostalo nuovamente. La cache verrà cancellata e il download inizierà nuovamente.",
+				"qa2" : "Può succedere se i nomi dei file sono stati modificati. Rimuovi il contrassegno di preferito dallo sfondo o suoneria ed elimina i dati dell’applicazione.",
+				"qa3" : "Il contenuto potrebbe non essere stato processato correttamente nel database locale. Forza un download al fine di riscrivere il database. Se non funziona elimina la cache o reinstalla l’applicazione.",
+				"qa4" : "Al fine di fornire questa funzione sono necessari i permessi 'WRITE_CONTACTS' e 'READ_CONTACTS'. Questi permessi sono si necessari ma danno anche l’implicita autorizzazione di accedere, leggere e scrivere l’intera rubrica. Un po’ troppo per una semplice funzione come quella richiesta.<br /><br />Esiste comunque un metodo alternativo. Se vuoi impostare la suoneria come predefinita per un contatto opera come segue. Apri la suoneria in DroidPapers. Seleziona 'Solo Download’. Apri il tuo contatto nella tua rubrica e seleziona la suoneria.",
+				"qa5" : "Tramite il servizio AutoChanger potrai far cambiare il tuo sfondo automaticamente da DroidPapers. Uno sfondo già scaricato verra impostato automaticamente ad uno specifico intervallo. Potrai scegliere il tuo intervallo preferito. Un intervallo di 1 minuto richiede il dispendio di circa il 5% di batteria. Più largo l’intervallo minore il dispendio di batteria.<br /><br />ShakeChanger esegue la stessa funzione eccetto che anziché cambiare lo sfondo a specifici intervalli lo fa ogni volta che si scuote il dispositivo.",
+				"qa6" : "Il sistema operativo Android può fermare e far ripartire dei servizi qualora servisse più memoria, spazio su disco o potenza di processore. Al riavvio del servizio lo sfondo verrà quindi modificato.",
 				"qa7" : "Tutti gli sfondi scaricati sono contenuti nella cartella seguente: /sdcard/Pictures/DroidPapers. Il servizio NON scarica gli sfondi al fine di prevenire utilizzo di dati mobili.",
-				"qa8" : "Tutto il contenuto scaricato dall’applicazione viene salvato nella SD-card, seguendo le pratiche Google. Quindi come segue:.<br /><br />* /sdcard/Pictures/DroidPapers : Sfondi<br />* /sdcard/Ringtones/DroidPapers : Suonerie sounds<br />* /sdcard/Notifications/DroidPapers : Notification sounds<br />* /sdcard/Alarms/DroidPapers : Allarmi<br />* /sdcard/DroidPapers : File di Backup",
+				"qa8" : "Tutto il contenuto scaricato dall’applicazione viene salvato nella SD-card, seguendo le pratiche Google. Quindi come segue:.<br /><br />* /sdcard/Pictures/DroidPapers : Sfondi<br />* /sdcard/Ringtones/DroidPapers : Suonerie sounds<br />* /sdcard/Notifications/DroidPapers: Notification sounds<br />* /sdcard/Alarms/DroidPapers : Allarmi<br />* /sdcard/DroidPapers : File di Backup",
 				"qa9" : "Prova i passi seguenti.<br /><br />1. Effettua il Backup dei tuoi preferiti e profili.<br />2. Elimina i dati dell’applicazione E la cache.<br />3. Reinstalla e riavvia l’applicazione.<br />4. Scarica il contenuto.<br />5. Ripristina i tuoi preferiti e i profili.<br />6. I tuoi problemi dovrebbero essere risolti."
 			}
 		},
@@ -351,7 +351,7 @@
 				"width" : "larghezza",
 				"height" : "altezza",
 				"setwallpapercolor" : "Inposta sfondo con colori..",
-				"original" : "Originale",
+				"original" : "Originali",
 				"grayscale" : "Scala di grigio",
 				"sepia" : "Seppia"
 			},
@@ -367,7 +367,7 @@
 			},
 			"autochanger" : {
 				"title" : "AutoChanger",
-				"description" : "AutoChanger è un servizio che ti permetti di cambiare sfondo  a determinati intervalli. Solamente gli sfondi già scaricati verranno utilizzati.",
+				"description" : "AutoChanger è un servizio che ti permetti di cambiare sfondo a determinati intervalli. Solamente gli sfondi già scaricati verranno utilizzati.",
 				"autochangerbig" : "AutoChanger abilitato",
 				"autochangersmall" : "Abilita o disabilita AutoChanger.",
 				"on" : "on",
@@ -467,10 +467,10 @@
 				"phone" : "Telefono",
 				"tablet" : "Tablet",
 				"hidedonatebig" : "Nascondi il pulsante Donazioni",
-				"hidedonatesmall" : "Se vuoi davvero non effettuare una donazione puoi nascondere il pulsante relativo. Tuttavia verra di nuovo visualizzato dopo 30 giorni."
+				"hidedonatesmall" : "Se vuoi davvero non effettuare una donazione puoi nascondere il pulsante relativo. Tuttavia verrà di nuovo visualizzato dopo 30 giorni."
 			},
 			"storage" : {
-				"title" : "Spazio di disco",
+				"title" : "Spazio su disco",
 				"deletecachebig" : "Elimina l’intera cache",
 				"deletecachesmall" : "Questa operazione non eliminerà gli sfondi e le suonerie scaricate e le impostazioni dell’applicazione.",
 				"deletecachebutton" : "Elimina"
