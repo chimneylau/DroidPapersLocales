@@ -119,7 +119,7 @@ In the example below you only need to translate the x. The identifiers a, b, and
 	<td>it</td>
 	<td>values-it</td>
 	<td>Giampaolo Frello</td>
-	<td><a href="https://plus.google.com/u/0/+GiampaoloFrello/">Playboard Profile</a></td>
+	<td><a href="https://plus.google.com/u/0/+GiampaoloFrello/">Google+ Profile</a></td>
 </tr>
 </table>
 
