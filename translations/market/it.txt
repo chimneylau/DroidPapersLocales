@@ -1,49 +1,48 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-DroidPapers delivers official stock wallpapers and ringtones from Android, and from other official and non-official distributions and vendors. Download the wallpaper or ringtone you like and set it from within the app. App is and stays ad-free.
+DroidPapers ti offre gli sfondi e le suonerie ufficiali di Android come pure quelli di distribuzioni ufficiali e non ufficiale delle diverse case produttrici di smartphone. Scarica lo sfondo o la suoneria che più ti piace e impostala direttamente dall’applicazione. L’applicazione è e rimarrà priva di pubblicità.
 ----
-Features
-* Open wallpapers in browser.
-* Fullscreen view of wallpapers.
-* Set wallpaper and ringtones from within the app.
-* Set a wallpaper in grayscale or sepia color-scheme.
-* Favorite systems to organize your favorite wallpapers and ringtones.
-* Download wallpapers and ringtones directly, without setting it as default.
-* Play ringtones in the app.
-* Share the wallpapers and ringtones you want to share with the world.
-* Setup profiles with wallpapers and ringtones. You can activate a profile and all content included gets set as system defaults.
-* AutoChanger service to random change your wallpaper based on an interval.
-* ShakeChanger service to change your wallpaper to a random one with a shake.
+Funzioni
+* Apertura sfondi in browser.
+* Visione sfondi a schermo intero.
+* Impostazione sfondi e suonerie direttamente dall’applicazione.
+* Impostazione sfondi in scala di grigi o in colori seppia.
+* Sistema di preferiti per organizzare i proprio sfondi e suonerie preferiti.
+* Scarica sfondi e suonerie direttamente, senza impostarli come predefiniti.
+* Riproduci le suonerie direttamente dall’applicazione.
+* Condividi gli sfondi e le suonerie con chi vuoi.
+* Imposta profili di suonerie e sfondi. Puoi attivare facilmente il profilo che vuoi.
+* Servizio AutoChanger per cambiare sfondo ad uno specifico intervallo.
+* Servizio ShakeChanger per cambiare sfondo allo scuotimento del dispositivo.
 ----
-Included wallpapers
+Sfondi inclusi
 
-Total wallpapers: 
+Sfondi totali:
 
-Included ringtones
+Suonerie incluse 
 
-Total ringtones: 
+Suonerie totali:
 ----
-Permissions:
-- INTERNET: For downloading the wallpapers from the internet.
-- ACCESS_NETWORK_STATE: For accessing internet through networks.
-- WRITE_EXTERNAL_STORAGE: For saving wallpapers to SD-card.
-- SET_WALLPAPER: For setting image as system wallpaper.
-- READ_PHONE_STATE: To detect if there is an Internet connection.
-- READ_EXTERNAL_STORAGE: For accessing the downloaded wallpaper from SD-card.
-- WRITE_SETTINGS: For setting a ringtone as default ringtone.
-- RECEIVE_BOOT_COMPLETED: To start services after boot of phone.
-- VIBRATE: To vibrate when the phone is shaken if the ShakeChanger is used.
+Autorizzazioni:
+- INTERNET: Per scaricare gli sfondi da internet.
+- ACCESS_NETWORK_STATE: Per accedere a internet tramite rete.
+- WRITE_EXTERNAL_STORAGE: Per salvare gli sfondi nella SD-card.
+- SET_WALLPAPER: Per impostare le immagini come sfondi.
+- READ_PHONE_STATE: Per verificare la presenza della connessione internet.
+- READ_EXTERNAL_STORAGE: Per accedere agli sfondi scaricati sulla SD-card.
+- WRITE_SETTINGS: Per impostare la suoneria scaricata come predefinita.
+- RECEIVE_BOOT_COMPLETED: Per far partire il servizio all’avvio del telefono.
+- VIBRATE: Per vibrare il telefono quando viene scosso se si utilizza ShakeChanger.
 
 Disclaimer:
-All content and rights belong to their respected owners. No transfer of ownership is at hand with using this application. Donation funds are used for upkeep of server space and bandwidth.
-Every wallpaper and ringtone is downloaded from the Internet. There is no copyright violation intended with this app. If you feel that your copyright has been violated, please let me know. I will take appropriate actions.
+Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br /><br />Ogni sfondo e suoneria inclusi nell’applicazione e nel website sono stati scaricati da Internet. Non si è voluto violare alcun copyright intenzionalmente. Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Searched for stock Android walls and rings for hours? Check out DroidPapers!
+Continui a perdere tempo alla ricerca degli sfondi ufficiali di Android? Allora prova DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Thank you for considering donating for DroidPapers. Beside the fact that you don't see the DroidPapers Donate key button(s) in the app anymore, I am very, very, grateful for your donation. Your donation will keep the webserver running and the app ad-free!
+Ti ringrazio qualora volessi considerare di effettuare una donazione a DroidPapers. A parte l’ovvio vantaggio di non vedere più il pulsante di Donazione nell’applicazione, mi faresti felice. La tua donazione servirà per tenere il servizio attivo e l’applicazione priva di pubblicità!
 
-Please download and install the free version of DroidPapers also. You cannot start DroidPapers with only the key being installed. This key will not install an additional icon.
+Scarica ed installa anche la versione gratuita di DroidPapers. Non potrai far funzionare Droidpapers con solo il programma chiave installato. Questa chiave non installa nessuna icona aggiuntiva.
 
-Please note that I maintain the right to move features from the donated version to the free version.
+Si prega di notare che mantengo il diritto di spostare funzionalita dalla versione gratuita e quella ‘donate’.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Buy the DroidPapers Donate Key and help supporting DroidPapers!
+Acquista DroidPapers Donate Key e aiuterai il supporto di DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

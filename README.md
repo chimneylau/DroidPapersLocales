@@ -115,11 +115,11 @@ In the example below you only need to translate the x. The identifiers a, b, and
 	<td><a href="https://plus.google.com/+JoramTeusink/">Google+ Profile</a></td>
 </tr>
 <tr>
-	<td>Italian (not finished yet)</td>
+	<td>Italian</td>
 	<td>it</td>
 	<td>values-it</td>
 	<td>Giampaolo Frello</td>
-	<td><a href="http://playboard.me/android/channels/5252aa084dc45462285ad955">Playboard Profile</a></td>
+	<td><a href="https://plus.google.com/u/0/+GiampaoloFrello/">Playboard Profile</a></td>
 </tr>
 </table>
 
