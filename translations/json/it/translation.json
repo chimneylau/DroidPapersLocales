@@ -41,10 +41,10 @@
                 "moreinfo" : {
                         "bar" : "Altre info sulle impostazione sfondi...",
                         "info" : "Puoi impostare uno sfondo in due opzioni diverse. Mantenedo l’altezza o mantendendo la larghezza. Di seguito il significato.",
-                        "heighttitle" : "Imposta mantenendo l’altezza",
-                        "heighttext" : "Mantendo l’altezza l’intera altezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allungandola o accorciandola quando necessario.Ciò può portare a delle bande nere sui lati sinistro e destro oppure parte dello sfondo potrebbe essere tagliato. Questo in funzione della risoluzione dello schermo e della foto.",
-                        "widthtitle" : "Imposta mantenendo la larghezza",
-                        "widthtext" : "Mantendo la larghezza l’intera larghezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allargandola o restringendola quando necessario.Ciò può portare a delle bande nere sui lati superiori ed inferiori oppure parte dello sfondo potrebbe essere tagliato. Questo in funzione della risoluzione dello schermo e della foto."
+                        "heighttitle" : "Imposta mantenendo altezza",
+                        "heighttext" : "Mantendo l’altezza l’intera altezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allungandola o accorciandola quando necessario. Ciò può portare a delle bande nere sui lati sinistro e destro oppure parte dello sfondo potrebbe essere tagliato. Questo in funzione della risoluzione dello schermo e della foto.",
+                        "widthtitle" : "Imposta mantenendo larghezza",
+                        "widthtext" : "Mantendo la larghezza l’intera larghezza dell’immagine viene mostrata sullo schermo del tuo dispositivo allargandola o restringendola quando necessario. Ciò può portare a delle bande nere sui lati superiori ed inferiori oppure parte dello sfondo potrebbe essere tagliato. Questo in funzione della risoluzione dello schermo e della foto."
                 },
                 "panel" : {
                         "keepheight" : "Imposta mantenendo l’altezza",
@@ -207,7 +207,7 @@
                         "deleteprofiletitle" : "Elimina profilo",
                         "profiledelete" : "Elimina",
                         "profiledeleted" : "Profilo eliminato",
-                        "activateprofile" : "Vuoi attivare il profilo ?",
+                        "activateprofile" : "Vuoi attivare il profilo",
                         "activateprofiletitle" : "Attiva profilo...",
                         "deleteringprofile" : "Vuoi eliminare la suoneria dal profilo ?",
                         "deleteringprofiletitle" : "Elimina suoneria...",
@@ -348,8 +348,8 @@
                                 "title" : "Impostazioni generali",
                                 "description" : "Impostazioni sfondi generali utilizzate da AutoChanger, ShakeChanger e dal set predefinito.",
                                 "setwallpapersize" : "Imposta sfondo mantenendo la sua...",
-                                "width" : "larghezza",
-                                "height" : "altezza",
+                                "width" : "largh",
+                                "height" : "alt",
                                 "setwallpapercolor" : "Inposta sfondo con colori..",
                                 "original" : "Originali",
                                 "grayscale" : "Scala di grigio",
