@@ -1,4 +1,4 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 DroidPapers ti offre gli sfondi e le suonerie ufficiali di Android come pure quelli di distribuzioni ufficiali e non ufficiale delle diverse case produttrici di smartphone. Scarica lo sfondo o la suoneria che più ti piace e impostala direttamente dall'applicazione. L'applicazione è e rimarrà priva di pubblicità.
 ----
 Funzioni
@@ -34,9 +34,9 @@ Autorizzazioni:
 - VIBRATE: Per vibrare il telefono quando viene scosso se si utilizza ShakeChanger.
 
 Disclaimer:
-Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br /><br />Ogni sfondo e suoneria inclusi nell'applicazione e nel website sono stati scaricati da Internet. Non si è voluto violare alcun copyright intenzionalmente. Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.
+Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati. Ogni sfondo e suoneria inclusi nell'applicazione e nel website sono stati scaricati da Internet. Non si è voluto violare alcun copyright intenzionalmente. Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Continui a perdere tempo alla ricerca degli sfondi ufficiali di Android? Allora prova DroidPapers!
+Sei sempre alla ricerca degli sfondi ufficiali di Android? Prova DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ti ringrazio qualora volessi considerare di effettuare una donazione a DroidPapers. A parte l'ovvio vantaggio di non vedere più il pulsante di Donazione nell'applicazione, mi faresti felice. La tua donazione servirà per mantenere il servizio attivo e l'applicazione priva di pubblicità!
 
