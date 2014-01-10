@@ -26,6 +26,6 @@
     <string name="contentupdate">Aggiornamento contenuti</string>
     <string name="appupdate">Aggiornamento applicazione</string>
     <string name="appupdatemessage">Aggiorna alla versione più recente di DroidPapers.</string>
-    <string name="shaked">Hai trasferito con uno scuotimento un nuovo sfondo al tuo dispositivo!</string>
+    <string name="shaked">Hai impostato con uno scuotimento un nuovo sfondo al tuo dispositivo!</string>
     <string name="nodownloadsfound">DroidPapers non ha trovato sfondi scaricati.</string>
 </resources>
