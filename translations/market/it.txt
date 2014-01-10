@@ -1,14 +1,14 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-DroidPapers ti offre gli sfondi e le suonerie ufficiali di Android come pure quelli di distribuzioni ufficiali e non ufficiale delle diverse case produttrici di smartphone. Scarica lo sfondo o la suoneria che pi˘ ti piace e impostala direttamente dallíapplicazione. Líapplicazione Ë e rimarr‡ priva di pubblicit‡.
+DroidPapers ti offre gli sfondi e le suonerie ufficiali di Android come pure quelli di distribuzioni ufficiali e non ufficiale delle diverse case produttrici di smartphone. Scarica lo sfondo o la suoneria che pi√π ti piace e impostala direttamente dall'applicazione. L'applicazione √® e rimarr√† priva di pubblicit√†.
 ----
 Funzioni
 * Apertura sfondi in browser.
 * Visione sfondi a schermo intero.
-* Impostazione sfondi e suonerie direttamente dallíapplicazione.
+* Impostazione sfondi e suonerie direttamente dall'applicazione.
 * Impostazione sfondi in scala di grigi o in colori seppia.
 * Sistema di preferiti per organizzare i proprio sfondi e suonerie preferiti.
 * Scarica sfondi e suonerie direttamente, senza impostarli come predefiniti.
-* Riproduci le suonerie direttamente dallíapplicazione.
+* Riproduci le suonerie direttamente dall'applicazione.
 * Condividi gli sfondi e le suonerie con chi vuoi.
 * Imposta profili di suonerie e sfondi. Puoi attivare facilmente il profilo che vuoi.
 * Servizio AutoChanger per cambiare sfondo ad uno specifico intervallo.
@@ -30,19 +30,19 @@ Autorizzazioni:
 - READ_PHONE_STATE: Per verificare la presenza della connessione internet.
 - READ_EXTERNAL_STORAGE: Per accedere agli sfondi scaricati sulla SD-card.
 - WRITE_SETTINGS: Per impostare la suoneria scaricata come predefinita.
-- RECEIVE_BOOT_COMPLETED: Per far partire il servizio allíavvio del telefono.
+- RECEIVE_BOOT_COMPLETED: Per far partire il servizio all'avvio del telefono.
 - VIBRATE: Per vibrare il telefono quando viene scosso se si utilizza ShakeChanger.
 
 Disclaimer:
-Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br /><br />Ogni sfondo e suoneria inclusi nellíapplicazione e nel website sono stati scaricati da Internet. Non si Ë voluto violare alcun copyright intenzionalmente. Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.
+Tutti i contenuti e suoi diritti appartengono ai rispettivi proprietari. Nessun trasferimento di possesso viene fornito usando questa applicazione. Le entrate derivate dalle donazioni vengono utilizzare per la gestione del server e del traffico dati.<br /><br />Ogni sfondo e suoneria inclusi nell'applicazione e nel website sono stati scaricati da Internet. Non si √® voluto violare alcun copyright intenzionalmente. Qualora si evidenziasse una violazione di copyright contattatemi al fine di prendere la relativa azione correttiva.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Continui a perdere tempo alla ricerca degli sfondi ufficiali di Android? Allora prova DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Ti ringrazio qualora volessi considerare di effettuare una donazione a DroidPapers. A parte líovvio vantaggio di non vedere pi˘ il pulsante di Donazione nellíapplicazione, mi faresti felice. La tua donazione servir‡ per tenere il servizio attivo e líapplicazione priva di pubblicit‡!
+Ti ringrazio qualora volessi considerare di effettuare una donazione a DroidPapers. A parte l'ovvio vantaggio di non vedere pi√π il pulsante di Donazione nell'applicazione, mi faresti felice. La tua donazione servir√† per mantenere il servizio attivo e l'applicazione priva di pubblicit√†!
 
 Scarica ed installa anche la versione gratuita di DroidPapers. Non potrai far funzionare Droidpapers con solo il programma chiave installato. Questa chiave non installa nessuna icona aggiuntiva.
 
-Si prega di notare che mantengo il diritto di spostare funzionalita dalla versione gratuita e quella ëdonateí.
+Si prega di notare che mantengo il diritto di spostare funzionalita dalla versione gratuita e quella 'donate'.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Acquista DroidPapers Donate Key e aiuterai il supporto di DroidPapers!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
